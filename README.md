@@ -59,7 +59,7 @@ Statista was the fifth source which is also used as structured data, The link fo
 
 The World Bank was the last source, in which have used two data sets one is structured and other is unstructured data. https://tcdata360.worldbank.org/indicators/af52ebe9? country=BRA&indicator=27959&viz=line_chart&years=2006,2018&indicators=944& compareBy=region this data set contains the data of global gender gap index for different indicators for all the countries by which we can easily analyze what percentage of women are facing gender inequalities. 
 
-    Another data for this project was also from this source https://datahelpdesk.worldbank.org/knowledgebase/articles/906519 which we web scraped using R. This contains the data of World Countries Region wise and Income Level of the Countries wise which is used for us to analyze our data based on this parameters to get more clear idea on which areas and fields we are having gender inequalities and what should be in particular fields to improve empowerment of women which we will be visualized in our BI Queries later.
+   Another data for this project was also from this source https://datahelpdesk.worldbank.org/knowledgebase/articles/906519 which we web scraped using R. This contains the data of World Countries Region wise and Income Level of the Countries wise which is used for us to analyze our data based on this parameters to get more clear idea on which areas and fields we are having gender inequalities and what should be in particular fields to improve empowerment of women which we will be visualized in our BI Queries later.
     
     
 ** Find my project report on https://www.slideshare.net/bhupatialekhya/dwbiprojectwomenempowermentandgendergap
