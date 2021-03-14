@@ -1,0 +1,3915 @@
+Country,Year,Gender,Mean_years_schooling
+ Afghanistan,1990,Male,2.5
+ Albania,1990,Male,8.2
+ Algeria,1990,Male,4.7
+ Argentina,1990,Male,7.9
+ Armenia,1990,Male,10.2
+ Australia,1990,Male,11.4
+ Austria,1990,Male,9.7
+ Bahrain,1990,Male,6.3
+ Bangladesh,1990,Male,3.7
+ Barbados,1990,Male,8.2
+ Belgium,1990,Male,9.5
+ Belize,1990,Male,8.3
+ Benin,1990,Male,2.6
+ Bolivia (Plurinational State of),1990,Male,7.4
+ Botswana,1990,Male,5.9
+ Brazil,1990,Male,3.9
+ Brunei Darussalam,1990,Male,8.1
+ Bulgaria,1990,Male,8.4
+ Burundi,1990,Male,2.1
+ Cambodia,1990,Male,4.1
+ Cameroon,1990,Male,4.5
+ Canada,1990,Male,10.4
+ Central African Republic,1990,Male,3.1
+ Chile,1990,Male,8.2
+ China,1990,Male,5.2
+ Colombia,1990,Male,5.6
+ Congo,1990,Male,5.8
+ Congo (Democratic Republic of the),1990,Male,3.5
+ Costa Rica,1990,Male,6.8
+ Croatia,1990,Male,9.7
+ Cuba,1990,Male,8.2
+ Cyprus,1990,Male,9.4
+ Czechia,1990,Male,11
+ Côte d'Ivoire,1990,Male,2.9
+ Denmark,1990,Male,9.6
+ Dominican Republic,1990,Male,5.4
+ Ecuador,1990,Male,6.8
+ Egypt,1990,Male,4.9
+ El Salvador,1990,Male,4
+ Estonia,1990,Male,9.5
+ Eswatini (Kingdom of),1990,Male,4.9
+ Fiji,1990,Male,6.9
+ Finland,1990,Male,8.2
+ France,1990,Male,7.8
+ Gabon,1990,Male,3.4
+ Gambia,1990,Male,1.8
+ Germany,1990,Male,9.5
+ Ghana,1990,Male,6.6
+ Greece,1990,Male,8.6
+ Guatemala,1990,Male,3.5
+ Guyana,1990,Male,6.8
+ Haiti,1990,Male,3.8
+ Honduras,1990,Male,4.4
+ Hong Kong China (SAR),1990,Male,9.4
+ Hungary,1990,Male,9.3
+ Iceland,1990,Male,8.4
+ India,1990,Male,4.1
+ Indonesia,1990,Male,4.1
+ Iran (Islamic Republic of),1990,Male,5.4
+ Iraq,1990,Male,4.6
+ Ireland,1990,Male,9.7
+ Israel,1990,Male,11.3
+ Italy,1990,Male,7.8
+ Jamaica,1990,Male,6.4
+ Japan,1990,Male,10.1
+ Jordan,1990,Male,6.6
+ Kazakhstan,1990,Male,8.6
+ Kenya,1990,Male,5
+ Korea (Republic of),1990,Male,10.4
+ Kuwait,1990,Male,5.6
+ Kyrgyzstan,1990,Male,9.1
+ Lao People's Democratic Republic,1990,Male,4.3
+ Latvia,1990,Male,7.7
+ Lesotho,1990,Male,3.8
+ Liberia,1990,Male,4.1
+ Libya,1990,Male,4.8
+ Lithuania,1990,Male,8.8
+ Luxembourg,1990,Male,9.6
+ Malawi,1990,Male,3.4
+ Malaysia,1990,Male,7.4
+ Maldives,1990,Male,4.4
+ Mali,1990,Male,1.1
+ Malta,1990,Male,6.5
+ Mauritania,1990,Male,2.9
+ Mauritius,1990,Male,6.6
+ Mexico,1990,Male,6
+ Moldova (Republic of),1990,Male,8.7
+ Mongolia,1990,Male,8
+ Morocco,1990,Male,2.9
+ Mozambique,1990,Male,1.4
+ Myanmar,1990,Male,2.6
+ Namibia,1990,Male,6.1
+ Nepal,1990,Male,3.3
+ Netherlands,1990,Male,10.9
+ New Zealand,1990,Male,11.9
+ Nicaragua,1990,Male,5
+ Niger,1990,Male,1.1
+ Norway,1990,Male,11.7
+ Pakistan,1990,Male,2.7
+ Papua New Guinea,1990,Male,3.1
+ Paraguay,1990,Male,5.8
+ Peru,1990,Male,7.1
+ Philippines,1990,Male,6.7
+ Poland,1990,Male,9.6
+ Portugal,1990,Male,5.9
+ Qatar,1990,Male,5.3
+ Romania,1990,Male,9.9
+ Russian Federation,1990,Male,9.6
+ Rwanda,1990,Male,2.4
+ Saudi Arabia,1990,Male,6.7
+ Senegal,1990,Male,2
+ Serbia,1990,Male,8.7
+ Sierra Leone,1990,Male,2.3
+ Singapore,1990,Male,6.4
+ Slovakia,1990,Male,9.4
+ Slovenia,1990,Male,11.2
+ South Africa,1990,Male,6.6
+ Spain,1990,Male,7
+ Sri Lanka,1990,Male,8.2
+ Sudan,1990,Male,2.2
+ Sweden,1990,Male,10.5
+ Switzerland,1990,Male,10.9
+ Syrian Arab Republic,1990,Male,4.8
+ Tajikistan,1990,Male,10.6
+ Tanzania (United Republic of),1990,Male,4.5
+ Thailand,1990,Male,4.3
+ Togo,1990,Male,4.6
+ Tonga,1990,Male,8.6
+ Trinidad and Tobago,1990,Male,8.1
+ Tunisia,1990,Male,4.6
+ Turkey,1990,Male,5.8
+ Uganda,1990,Male,3.9
+ Ukraine,1990,Male,9.7
+ United Arab Emirates,1990,Male,5.6
+ United Kingdom,1990,Male,8.8
+ United States,1990,Male,12.2
+ Uruguay,1990,Male,7.1
+ Venezuela (Bolivarian Republic of),1990,Male,4.8
+ Viet Nam,1990,Male,4.5
+ Yemen,1990,Male,0.5
+ Zambia,1990,Male,6.3
+ Zimbabwe,1990,Male,5.6
+ Afghanistan,1995,Male,3.2
+ Albania,1995,Male,8.3
+ Algeria,1995,Male,5.5
+ Argentina,1995,Male,8.3
+ Armenia,1995,Male,10.3
+ Australia,1995,Male,11.7
+ Austria,1995,Male,9.9
+ Azerbaijan,1995,Male,10.8
+ Bahrain,1995,Male,6.9
+ Bangladesh,1995,Male,4.2
+ Barbados,1995,Male,8.8
+ Belarus,1995,Male,8.7
+ Belgium,1995,Male,10.1
+ Belize,1995,Male,9.2
+ Benin,1995,Male,3.3
+ Bolivia (Plurinational State of),1995,Male,7.8
+ Botswana,1995,Male,6.7
+ Brazil,1995,Male,4.6
+ Brunei Darussalam,1995,Male,8.4
+ Bulgaria,1995,Male,9.2
+ Burundi,1995,Male,2.2
+ Cambodia,1995,Male,4.3
+ Cameroon,1995,Male,5.2
+ Canada,1995,Male,10.8
+ Central African Republic,1995,Male,3.7
+ Chile,1995,Male,8.5
+ China,1995,Male,6.3
+ Colombia,1995,Male,6.3
+ Congo,1995,Male,6.3
+ Congo (Democratic Republic of the),1995,Male,4.3
+ Costa Rica,1995,Male,7.2
+ Croatia,1995,Male,10.2
+ Cuba,1995,Male,8.8
+ Cyprus,1995,Male,9.9
+ Czechia,1995,Male,12.4
+ Côte d'Ivoire,1995,Male,3.4
+ Denmark,1995,Male,10.4
+ Dominican Republic,1995,Male,5.8
+ Ecuador,1995,Male,6.9
+ Egypt,1995,Male,5.4
+ El Salvador,1995,Male,5
+ Estonia,1995,Male,10.7
+ Eswatini (Kingdom of),1995,Male,6.2
+ Fiji,1995,Male,8.1
+ Finland,1995,Male,8.8
+ France,1995,Male,8.9
+ Gabon,1995,Male,4.4
+ Gambia,1995,Male,2.3
+ Germany,1995,Male,10.5
+ Ghana,1995,Male,7.3
+ Greece,1995,Male,8.8
+ Guatemala,1995,Male,3.9
+ Guyana,1995,Male,7.1
+ Haiti,1995,Male,4.4
+ Honduras,1995,Male,4.8
+ Hong Kong China (SAR),1995,Male,9.4
+ Hungary,1995,Male,9.9
+ Iceland,1995,Male,8.8
+ India,1995,Male,5
+ Indonesia,1995,Male,5
+ Iran (Islamic Republic of),1995,Male,6.4
+ Iraq,1995,Male,5.6
+ Ireland,1995,Male,10.3
+ Israel,1995,Male,11.6
+ Italy,1995,Male,8.4
+ Jamaica,1995,Male,7.3
+ Japan,1995,Male,10.6
+ Jordan,1995,Male,7.8
+ Kazakhstan,1995,Male,9.7
+ Kenya,1995,Male,5.8
+ Korea (Republic of),1995,Male,11.1
+ Kuwait,1995,Male,5.9
+ Kyrgyzstan,1995,Male,9.5
+ Lao People's Democratic Republic,1995,Male,4.8
+ Latvia,1995,Male,9
+ Lesotho,1995,Male,4.2
+ Liberia,1995,Male,4.7
+ Libya,1995,Male,5.5
+ Lithuania,1995,Male,9.5
+ Luxembourg,1995,Male,10
+ Malawi,1995,Male,3.8
+ Malaysia,1995,Male,8.3
+ Maldives,1995,Male,3.8
+ Mali,1995,Male,1.3
+ Malta,1995,Male,6.9
+ Mauritania,1995,Male,3.4
+ Mauritius,1995,Male,7
+ Mexico,1995,Male,6.8
+ Moldova (Republic of),1995,Male,9.2
+ Mongolia,1995,Male,8.4
+ Morocco,1995,Male,3.6
+ Mozambique,1995,Male,2.2
+ Myanmar,1995,Male,2.8
+ Namibia,1995,Male,5.9
+ Nepal,1995,Male,3.5
+ Netherlands,1995,Male,11.1
+ New Zealand,1995,Male,11.7
+ Nicaragua,1995,Male,5.2
+ Niger,1995,Male,1.4
+ Norway,1995,Male,11.9
+ Pakistan,1995,Male,3.5
+ Papua New Guinea,1995,Male,4
+ Paraguay,1995,Male,6.3
+ Peru,1995,Male,7.9
+ Philippines,1995,Male,7.1
+ Poland,1995,Male,10.1
+ Portugal,1995,Male,6.4
+ Qatar,1995,Male,5.7
+ Romania,1995,Male,10.3
+ Russian Federation,1995,Male,10.2
+ Rwanda,1995,Male,2.6
+ Saudi Arabia,1995,Male,7.2
+ Senegal,1995,Male,1.9
+ Serbia,1995,Male,9.3
+ Sierra Leone,1995,Male,2.8
+ Singapore,1995,Male,7.8
+ Slovakia,1995,Male,9.8
+ Slovenia,1995,Male,11.5
+ South Africa,1995,Male,7.2
+ Spain,1995,Male,7.8
+ Sri Lanka,1995,Male,9.5
+ Sudan,1995,Male,2.8
+ Sweden,1995,Male,10.9
+ Switzerland,1995,Male,11.3
+ Syrian Arab Republic,1995,Male,5.1
+ Tajikistan,1995,Male,10.8
+ Tanzania (United Republic of),1995,Male,4.8
+ Thailand,1995,Male,4.8
+ Togo,1995,Male,5
+ Tonga,1995,Male,8.9
+ Trinidad and Tobago,1995,Male,8.6
+ Tunisia,1995,Male,5.4
+ Turkey,1995,Male,6.3
+ Turkmenistan,1995,Male,11.3
+ Uganda,1995,Male,4.5
+ Ukraine,1995,Male,10.5
+ United Arab Emirates,1995,Male,7
+ United Kingdom,1995,Male,9.3
+ United States,1995,Male,12.5
+ Uruguay,1995,Male,7.5
+ Venezuela (Bolivarian Republic of),1995,Male,5.6
+ Viet Nam,1995,Male,5.1
+ Yemen,1995,Male,1.1
+ Zambia,1995,Male,6.7
+ Zimbabwe,1995,Male,6.4
+ Afghanistan,2000,Male,3.7
+ Albania,2000,Male,9
+ Algeria,2000,Male,6
+ Argentina,2000,Male,8.5
+ Armenia,2000,Male,10.4
+ Australia,2000,Male,12
+ Austria,2000,Male,10.1
+ Azerbaijan,2000,Male,11.2
+ Bahamas,2000,Male,10.7
+ Bahrain,2000,Male,7.3
+ Bangladesh,2000,Male,4.8
+ Barbados,2000,Male,8.9
+ Belarus,2000,Male,9
+ Belgium,2000,Male,10.6
+ Belize,2000,Male,10.1
+ Benin,2000,Male,3.8
+ Bolivia (Plurinational State of),2000,Male,8.2
+ Botswana,2000,Male,7.7
+ Brazil,2000,Male,5.6
+ Brunei Darussalam,2000,Male,8.5
+ Bulgaria,2000,Male,9.9
+ Burundi,2000,Male,2.5
+ Cambodia,2000,Male,4.5
+ Cameroon,2000,Male,5.8
+ Canada,2000,Male,11.1
+ Central African Republic,2000,Male,4.2
+ Chile,2000,Male,9.1
+ China,2000,Male,7.4
+ Colombia,2000,Male,6.6
+ Congo,2000,Male,6.3
+ Congo (Democratic Republic of the),2000,Male,4.7
+ Costa Rica,2000,Male,7.5
+ Croatia,2000,Male,10.7
+ Cuba,2000,Male,9.4
+ Cyprus,2000,Male,10.3
+ Czechia,2000,Male,13.2
+ Côte d'Ivoire,2000,Male,4.2
+ Denmark,2000,Male,11
+ Dominican Republic,2000,Male,5.9
+ Ecuador,2000,Male,6.9
+ Egypt,2000,Male,6.1
+ El Salvador,2000,Male,6.2
+ Estonia,2000,Male,11.9
+ Eswatini (Kingdom of),2000,Male,7.5
+ Ethiopia,2000,Male,2.1
+ Fiji,2000,Male,8.6
+ Finland,2000,Male,9.4
+ France,2000,Male,10.1
+ Gabon,2000,Male,5.3
+ Gambia,2000,Male,2.8
+ Georgia,2000,Male,11.9
+ Germany,2000,Male,11.6
+ Ghana,2000,Male,7.5
+ Greece,2000,Male,9.1
+ Guatemala,2000,Male,4.1
+ Guinea,2000,Male,2.2
+ Guyana,2000,Male,7.3
+ Haiti,2000,Male,5.1
+ Honduras,2000,Male,5.2
+ Hong Kong China (SAR),2000,Male,9.3
+ Hungary,2000,Male,10.6
+ Iceland,2000,Male,9.3
+ India,2000,Male,6.2
+ Indonesia,2000,Male,6.3
+ Iran (Islamic Republic of),2000,Male,7.1
+ Iraq,2000,Male,6.5
+ Ireland,2000,Male,10.6
+ Israel,2000,Male,11.8
+ Italy,2000,Male,9
+ Jamaica,2000,Male,8.4
+ Japan,2000,Male,11
+ Jordan,2000,Male,8.7
+ Kazakhstan,2000,Male,10.8
+ Kenya,2000,Male,6.5
+ Korea (Republic of),2000,Male,11.6
+ Kuwait,2000,Male,5.9
+ Kyrgyzstan,2000,Male,10
+ Lao People's Democratic Republic,2000,Male,5
+ Latvia,2000,Male,10.2
+ Lesotho,2000,Male,4.6
+ Liberia,2000,Male,5.2
+ Libya,2000,Male,6.2
+ Lithuania,2000,Male,10.7
+ Luxembourg,2000,Male,10.3
+ Malawi,2000,Male,4.2
+ Malaysia,2000,Male,9.2
+ Maldives,2000,Male,3.3
+ Mali,2000,Male,1.4
+ Malta,2000,Male,7.5
+ Mauritania,2000,Male,3.9
+ Mauritius,2000,Male,7
+ Mexico,2000,Male,7.1
+ Moldova (Republic of),2000,Male,9.5
+ Mongolia,2000,Male,8.9
+ Morocco,2000,Male,4.3
+ Mozambique,2000,Male,3
+ Myanmar,2000,Male,3
+ Namibia,2000,Male,5.7
+ Nepal,2000,Male,3.6
+ Netherlands,2000,Male,11.4
+ New Zealand,2000,Male,12.2
+ Nicaragua,2000,Male,5.3
+ Niger,2000,Male,1.7
+ Norway,2000,Male,12.1
+ Oman,2000,Male,5.9
+ Pakistan,2000,Male,3.7
+ Panama,2000,Male,7.8
+ Papua New Guinea,2000,Male,4.3
+ Paraguay,2000,Male,6.7
+ Peru,2000,Male,8.9
+ Philippines,2000,Male,7.5
+ Poland,2000,Male,10.8
+ Portugal,2000,Male,7
+ Qatar,2000,Male,7
+ Romania,2000,Male,10.7
+ Russian Federation,2000,Male,11.4
+ Rwanda,2000,Male,2.7
+ Saint Lucia,2000,Male,6.7
+ Sao Tome and Principe,2000,Male,4.7
+ Saudi Arabia,2000,Male,7.8
+ Senegal,2000,Male,1.7
+ Serbia,2000,Male,9.8
+ Sierra Leone,2000,Male,3.1
+ Singapore,2000,Male,9.5
+ Slovakia,2000,Male,10.1
+ Slovenia,2000,Male,11.8
+ South Africa,2000,Male,7.7
+ Spain,2000,Male,8.7
+ Sri Lanka,2000,Male,10.9
+ Sudan,2000,Male,3.2
+ Sweden,2000,Male,11.3
+ Switzerland,2000,Male,11.7
+ Syrian Arab Republic,2000,Male,5
+ Tajikistan,2000,Male,11.1
+ Tanzania (United Republic of),2000,Male,5
+ Thailand,2000,Male,6.1
+ Timor-Leste,2000,Male,3.3
+ Togo,2000,Male,5.4
+ Tonga,2000,Male,9.2
+ Trinidad and Tobago,2000,Male,9.2
+ Tunisia,2000,Male,6.1
+ Turkey,2000,Male,6.5
+ Uganda,2000,Male,5
+ Ukraine,2000,Male,11.2
+ United Arab Emirates,2000,Male,8.2
+ United Kingdom,2000,Male,9.9
+ United States,2000,Male,12.8
+ Uruguay,2000,Male,7.8
+ Venezuela (Bolivarian Republic of),2000,Male,6.3
+ Viet Nam,2000,Male,5.9
+ Yemen,2000,Male,2
+ Zambia,2000,Male,7
+ Zimbabwe,2000,Male,7.4
+ Afghanistan,2005,Male,4.2
+ Albania,2005,Male,9.3
+ Algeria,2005,Male,7
+ Argentina,2005,Male,8.8
+ Armenia,2005,Male,10.7
+ Australia,2005,Male,12.2
+ Austria,2005,Male,10.6
+ Azerbaijan,2005,Male,11.3
+ Bahamas,2005,Male,11.3
+ Bahrain,2005,Male,8.1
+ Bangladesh,2005,Male,5.1
+ Barbados,2005,Male,9.1
+ Belarus,2005,Male,9.4
+ Belgium,2005,Male,11
+ Belize,2005,Male,10.3
+ Benin,2005,Male,4.1
+ Bolivia (Plurinational State of),2005,Male,7.7
+ Bosnia and Herzegovina,2005,Male,8.5
+ Botswana,2005,Male,8.4
+ Brazil,2005,Male,6
+ Brunei Darussalam,2005,Male,8.8
+ Bulgaria,2005,Male,10.4
+ Burkina Faso,2005,Male,1.8
+ Burundi,2005,Male,2.9
+ Cambodia,2005,Male,4.7
+ Cameroon,2005,Male,6.4
+ Canada,2005,Male,12.2
+ Central African Republic,2005,Male,4.7
+ Chad,2005,Male,2.3
+ Chile,2005,Male,9.6
+ China,2005,Male,7.5
+ Colombia,2005,Male,7.1
+ Congo,2005,Male,6.4
+ Congo (Democratic Republic of the),2005,Male,5.8
+ Costa Rica,2005,Male,7.8
+ Croatia,2005,Male,11.1
+ Cuba,2005,Male,10.1
+ Cyprus,2005,Male,11.1
+ Czechia,2005,Male,13.3
+ Côte d'Ivoire,2005,Male,4.8
+ Denmark,2005,Male,12.7
+ Dominican Republic,2005,Male,6.7
+ Ecuador,2005,Male,7.2
+ Egypt,2005,Male,6.9
+ El Salvador,2005,Male,6.6
+ Estonia,2005,Male,12
+ Eswatini (Kingdom of),2005,Male,6.9
+ Ethiopia,2005,Male,2.7
+ Fiji,2005,Male,9.3
+ Finland,2005,Male,12
+ France,2005,Male,10.7
+ Gabon,2005,Male,6
+ Gambia,2005,Male,3.2
+ Georgia,2005,Male,12.1
+ Germany,2005,Male,13
+ Ghana,2005,Male,7.6
+ Greece,2005,Male,10.2
+ Guatemala,2005,Male,4.2
+ Guinea,2005,Male,2.4
+ Guyana,2005,Male,7.6
+ Haiti,2005,Male,5.6
+ Honduras,2005,Male,5
+ Hong Kong China (SAR),2005,Male,11.3
+ Hungary,2005,Male,11.2
+ Iceland,2005,Male,9.9
+ India,2005,Male,6.6
+ Indonesia,2005,Male,7.6
+ Iran (Islamic Republic of),2005,Male,7.9
+ Iraq,2005,Male,7.3
+ Ireland,2005,Male,10.7
+ Israel,2005,Male,12.1
+ Italy,2005,Male,9.6
+ Jamaica,2005,Male,8.8
+ Japan,2005,Male,11.4
+ Jordan,2005,Male,9.8
+ Kazakhstan,2005,Male,11.5
+ Kenya,2005,Male,6.7
+ Korea (Republic of),2005,Male,12.3
+ Kuwait,2005,Male,5.9
+ Kyrgyzstan,2005,Male,10.2
+ Lao People's Democratic Republic,2005,Male,5.2
+ Latvia,2005,Male,12.1
+ Lebanon,2005,Male,7.7
+ Lesotho,2005,Male,4.7
+ Liberia,2005,Male,5.5
+ Libya,2005,Male,6.6
+ Lithuania,2005,Male,12.1
+ Luxembourg,2005,Male,11.6
+ Malawi,2005,Male,4.4
+ Malaysia,2005,Male,7.9
+ Maldives,2005,Male,3.7
+ Mali,2005,Male,2
+ Malta,2005,Male,10.3
+ Mauritania,2005,Male,4.4
+ Mauritius,2005,Male,7.8
+ Mexico,2005,Male,7.9
+ Moldova (Republic of),2005,Male,10.6
+ Mongolia,2005,Male,9.2
+ Montenegro,2005,Male,11.4
+ Morocco,2005,Male,4.9
+ Mozambique,2005,Male,3.6
+ Myanmar,2005,Male,3.4
+ Namibia,2005,Male,5.9
+ Nepal,2005,Male,4
+ Netherlands,2005,Male,12.2
+ New Zealand,2005,Male,12.4
+ Nicaragua,2005,Male,5.5
+ Niger,2005,Male,1.9
+ Nigeria,2005,Male,6.2
+ Norway,2005,Male,12.5
+ Oman,2005,Male,7.7
+ Pakistan,2005,Male,4
+ Palestine State of,2005,Male,8.5
+ Panama,2005,Male,8.4
+ Papua New Guinea,2005,Male,4.5
+ Paraguay,2005,Male,7.5
+ Peru,2005,Male,9.2
+ Philippines,2005,Male,8.3
+ Poland,2005,Male,11.3
+ Portugal,2005,Male,7.6
+ Qatar,2005,Male,8.4
+ Romania,2005,Male,10.7
+ Russian Federation,2005,Male,11.6
+ Rwanda,2005,Male,3.2
+ Saint Lucia,2005,Male,7.1
+ Sao Tome and Principe,2005,Male,5
+ Saudi Arabia,2005,Male,8
+ Senegal,2005,Male,2.1
+ Serbia,2005,Male,10.5
+ Sierra Leone,2005,Male,3.6
+ Singapore,2005,Male,11.1
+ Slovakia,2005,Male,11
+ Slovenia,2005,Male,12
+ South Africa,2005,Male,9.2
+ Spain,2005,Male,9.3
+ Sri Lanka,2005,Male,11.3
+ Sudan,2005,Male,3.6
+ Suriname,2005,Male,8.2
+ Sweden,2005,Male,12.1
+ Switzerland,2005,Male,11.7
+ Syrian Arab Republic,2005,Male,6.6
+ Tajikistan,2005,Male,11.1
+ Tanzania (United Republic of),2005,Male,5.4
+ Thailand,2005,Male,7
+ The former Yugoslav Republic of Macedonia,2005,Male,8.7
+ Timor-Leste,2005,Male,3.9
+ Togo,2005,Male,5.7
+ Tonga,2005,Male,10
+ Trinidad and Tobago,2005,Male,10.2
+ Tunisia,2005,Male,6.9
+ Turkey,2005,Male,7.2
+ Uganda,2005,Male,5.6
+ Ukraine,2005,Male,11.3
+ United Arab Emirates,2005,Male,8.7
+ United Kingdom,2005,Male,12
+ United States,2005,Male,12.7
+ Uruguay,2005,Male,7.8
+ Venezuela (Bolivarian Republic of),2005,Male,7.3
+ Viet Nam,2005,Male,6.9
+ Yemen,2005,Male,2.9
+ Zambia,2005,Male,7.2
+ Zimbabwe,2005,Male,7.9
+ Afghanistan,2010,Male,5.1
+ Albania,2010,Male,9.8
+ Algeria,2010,Male,7.8
+ Andorra,2010,Male,9.5
+ Argentina,2010,Male,9.3
+ Armenia,2010,Male,11.2
+ Australia,2010,Male,12.8
+ Austria,2010,Male,12.2
+ Azerbaijan,2010,Male,11
+ Bahamas,2010,Male,11.7
+ Bahrain,2010,Male,8.4
+ Bangladesh,2010,Male,5.5
+ Barbados,2010,Male,9.2
+ Belarus,2010,Male,12.1
+ Belgium,2010,Male,11.3
+ Belize,2010,Male,10.5
+ Benin,2010,Male,4.2
+ Bhutan,2010,Male,3.1
+ Bolivia (Plurinational State of),2010,Male,8.5
+ Bosnia and Herzegovina,2010,Male,8.1
+ Botswana,2010,Male,9.1
+ Brazil,2010,Male,6.7
+ Brunei Darussalam,2010,Male,9
+ Bulgaria,2010,Male,10.6
+ Burkina Faso,2010,Male,2
+ Burundi,2010,Male,3.1
+ Cambodia,2010,Male,5
+ Cameroon,2010,Male,6.6
+ Canada,2010,Male,12.5
+ Central African Republic,2010,Male,5.7
+ Chad,2010,Male,2.9
+ Chile,2010,Male,9.9
+ China,2010,Male,7.9
+ Colombia,2010,Male,7.4
+ Comoros,2010,Male,5.1
+ Congo,2010,Male,6.5
+ Congo (Democratic Republic of the),2010,Male,7.2
+ Costa Rica,2010,Male,8.3
+ Croatia,2010,Male,11.5
+ Cuba,2010,Male,10.9
+ Cyprus,2010,Male,11.8
+ Czechia,2010,Male,12.7
+ Côte d'Ivoire,2010,Male,5.3
+ Denmark,2010,Male,12.7
+ Dominican Republic,2010,Male,7.1
+ Ecuador,2010,Male,8.2
+ Egypt,2010,Male,7.7
+ El Salvador,2010,Male,7.4
+ Equatorial Guinea,2010,Male,7.2
+ Estonia,2010,Male,12.2
+ Eswatini (Kingdom of),2010,Male,6
+ Ethiopia,2010,Male,3.4
+ Fiji,2010,Male,9.7
+ Finland,2010,Male,12.2
+ France,2010,Male,11.1
+ Gabon,2010,Male,7.7
+ Gambia,2010,Male,3.7
+ Georgia,2010,Male,12.2
+ Germany,2010,Male,13.7
+ Ghana,2010,Male,7.9
+ Greece,2010,Male,10.6
+ Guatemala,2010,Male,5
+ Guinea,2010,Male,2.6
+ Guyana,2010,Male,8
+ Haiti,2010,Male,6.2
+ Honduras,2010,Male,5.3
+ Hong Kong China (SAR),2010,Male,12
+ Hungary,2010,Male,12.4
+ Iceland,2010,Male,10.4
+ India,2010,Male,7.2
+ Indonesia,2010,Male,8
+ Iran (Islamic Republic of),2010,Male,9.1
+ Iraq,2010,Male,7.7
+ Ireland,2010,Male,10.7
+ Israel,2010,Male,12.6
+ Italy,2010,Male,10
+ Jamaica,2010,Male,9.4
+ Japan,2010,Male,11.7
+ Jordan,2010,Male,10.5
+ Kazakhstan,2010,Male,11.5
+ Kenya,2010,Male,5.6
+ Korea (Republic of),2010,Male,12.5
+ Kuwait,2010,Male,6.6
+ Kyrgyzstan,2010,Male,10.6
+ Lao People's Democratic Republic,2010,Male,5.3
+ Latvia,2010,Male,11.8
+ Lebanon,2010,Male,8.2
+ Lesotho,2010,Male,5
+ Liberia,2010,Male,5.8
+ Libya,2010,Male,7
+ Lithuania,2010,Male,12.5
+ Luxembourg,2010,Male,12.1
+ Madagascar,2010,Male,6.1
+ Malawi,2010,Male,5.2
+ Malaysia,2010,Male,10.1
+ Maldives,2010,Male,4.9
+ Mali,2010,Male,2.6
+ Malta,2010,Male,10.7
+ Mauritania,2010,Male,4.8
+ Mauritius,2010,Male,8.8
+ Mexico,2010,Male,8.2
+ Moldova (Republic of),2010,Male,10.8
+ Mongolia,2010,Male,9.5
+ Montenegro,2010,Male,11.8
+ Morocco,2010,Male,5.3
+ Mozambique,2010,Male,4.3
+ Myanmar,2010,Male,3.8
+ Namibia,2010,Male,6.1
+ Nepal,2010,Male,4.5
+ Netherlands,2010,Male,12.4
+ New Zealand,2010,Male,12.4
+ Nicaragua,2010,Male,5.8
+ Niger,2010,Male,2
+ Nigeria,2010,Male,6.2
+ Norway,2010,Male,12.7
+ Oman,2010,Male,8.1
+ Pakistan,2010,Male,6.1
+ Palestine State of,2010,Male,9.1
+ Panama,2010,Male,9
+ Papua New Guinea,2010,Male,4.8
+ Paraguay,2010,Male,7.7
+ Peru,2010,Male,9.1
+ Philippines,2010,Male,9
+ Poland,2010,Male,12.3
+ Portugal,2010,Male,8.1
+ Qatar,2010,Male,8.2
+ Romania,2010,Male,11.1
+ Russian Federation,2010,Male,11.6
+ Rwanda,2010,Male,4.2
+ Saint Lucia,2010,Male,8.9
+ Sao Tome and Principe,2010,Male,6
+ Saudi Arabia,2010,Male,9.3
+ Senegal,2010,Male,3
+ Serbia,2010,Male,11.1
+ Sierra Leone,2010,Male,4
+ Singapore,2010,Male,11.6
+ Slovakia,2010,Male,12.1
+ Slovenia,2010,Male,12.3
+ South Africa,2010,Male,10
+ South Sudan,2010,Male,5.3
+ Spain,2010,Male,9.6
+ Sri Lanka,2010,Male,11.3
+ Sudan,2010,Male,3.8
+ Suriname,2010,Male,8.9
+ Sweden,2010,Male,12.2
+ Switzerland,2010,Male,12.8
+ Syrian Arab Republic,2010,Male,6.8
+ Tajikistan,2010,Male,11.2
+ Tanzania (United Republic of),2010,Male,5.9
+ Thailand,2010,Male,7.5
+ The former Yugoslav Republic of Macedonia,2010,Male,9.6
+ Timor-Leste,2010,Male,5.3
+ Togo,2010,Male,5.8
+ Tonga,2010,Male,10.9
+ Trinidad and Tobago,2010,Male,10.9
+ Tunisia,2010,Male,7.7
+ Turkey,2010,Male,8.2
+ Uganda,2010,Male,6.3
+ Ukraine,2010,Male,11.4
+ United Arab Emirates,2010,Male,8.7
+ United Kingdom,2010,Male,13.9
+ United States,2010,Male,13.2
+ Uruguay,2010,Male,8.1
+ Venezuela (Bolivarian Republic of),2010,Male,8.8
+ Viet Nam,2010,Male,7.9
+ Yemen,2010,Male,3.8
+ Zambia,2010,Male,7.3
+ Zimbabwe,2010,Male,8.1
+ Afghanistan,2011,Male,5.3
+ Albania,2011,Male,9.9
+ Algeria,2011,Male,7.9
+ Andorra,2011,Male,9.6
+ Argentina,2011,Male,9.4
+ Armenia,2011,Male,11.3
+ Australia,2011,Male,12.9
+ Austria,2011,Male,12.2
+ Azerbaijan,2011,Male,11
+ Bahamas,2011,Male,10.5
+ Bahrain,2011,Male,8.6
+ Bangladesh,2011,Male,6.6
+ Barbados,2011,Male,9.4
+ Belarus,2011,Male,12.1
+ Belgium,2011,Male,11.3
+ Belize,2011,Male,10.5
+ Benin,2011,Male,4.2
+ Bhutan,2011,Male,3.1
+ Bolivia (Plurinational State of),2011,Male,8.6
+ Bosnia and Herzegovina,2011,Male,8.2
+ Botswana,2011,Male,9.3
+ Brazil,2011,Male,6.9
+ Brunei Darussalam,2011,Male,9
+ Bulgaria,2011,Male,10.7
+ Burkina Faso,2011,Male,2
+ Burundi,2011,Male,3.3
+ Cambodia,2011,Male,5.1
+ Cameroon,2011,Male,6.8
+ Canada,2011,Male,12.6
+ Central African Republic,2011,Male,5.7
+ Chad,2011,Male,3
+ Chile,2011,Male,9.9
+ China,2011,Male,7.9
+ Colombia,2011,Male,7.5
+ Comoros,2011,Male,5.4
+ Congo,2011,Male,6.6
+ Congo (Democratic Republic of the),2011,Male,7.5
+ Costa Rica,2011,Male,8.4
+ Croatia,2011,Male,11.6
+ Cuba,2011,Male,11
+ Cyprus,2011,Male,11.9
+ Czechia,2011,Male,12.8
+ Côte d'Ivoire,2011,Male,5.4
+ Denmark,2011,Male,12.6
+ Dominican Republic,2011,Male,7.1
+ Ecuador,2011,Male,8.2
+ Egypt,2011,Male,7.7
+ El Salvador,2011,Male,6.9
+ Equatorial Guinea,2011,Male,7.2
+ Estonia,2011,Male,12.2
+ Eswatini (Kingdom of),2011,Male,6.3
+ Ethiopia,2011,Male,3.6
+ Fiji,2011,Male,9.9
+ Finland,2011,Male,12.3
+ France,2011,Male,11.2
+ Gabon,2011,Male,8.2
+ Gambia,2011,Male,3.8
+ Georgia,2011,Male,12.2
+ Germany,2011,Male,13.9
+ Ghana,2011,Male,7.9
+ Greece,2011,Male,10.6
+ Guatemala,2011,Male,5.2
+ Guinea,2011,Male,3.3
+ Guyana,2011,Male,8.1
+ Haiti,2011,Male,6.2
+ Honduras,2011,Male,5.5
+ Hong Kong China (SAR),2011,Male,12.2
+ Hungary,2011,Male,11.9
+ Iceland,2011,Male,10.8
+ India,2011,Male,7.4
+ Indonesia,2011,Male,8
+ Iran (Islamic Republic of),2011,Male,9.4
+ Iraq,2011,Male,7.7
+ Ireland,2011,Male,10.7
+ Israel,2011,Male,12.7
+ Italy,2011,Male,10.1
+ Jamaica,2011,Male,9.4
+ Japan,2011,Male,11.9
+ Jordan,2011,Male,10.5
+ Kazakhstan,2011,Male,11.6
+ Kenya,2011,Male,7.2
+ Korea (Republic of),2011,Male,12.5
+ Kuwait,2011,Male,6.9
+ Kyrgyzstan,2011,Male,10.6
+ Lao People's Democratic Republic,2011,Male,5.4
+ Latvia,2011,Male,11.8
+ Lebanon,2011,Male,8.3
+ Lesotho,2011,Male,5
+ Liberia,2011,Male,5.9
+ Libya,2011,Male,7
+ Lithuania,2011,Male,12.6
+ Luxembourg,2011,Male,12.2
+ Madagascar,2011,Male,6.1
+ Malawi,2011,Male,5.2
+ Malaysia,2011,Male,10.1
+ Maldives,2011,Male,5.2
+ Mali,2011,Male,2.7
+ Malta,2011,Male,10.9
+ Marshall Islands,2011,Male,11.1
+ Mauritania,2011,Male,4.9
+ Mauritius,2011,Male,9
+ Mexico,2011,Male,8.5
+ Moldova (Republic of),2011,Male,10.9
+ Mongolia,2011,Male,9.6
+ Montenegro,2011,Male,11.8
+ Morocco,2011,Male,5.5
+ Mozambique,2011,Male,4.3
+ Myanmar,2011,Male,4
+ Namibia,2011,Male,6.2
+ Nepal,2011,Male,4.6
+ Netherlands,2011,Male,12.3
+ New Zealand,2011,Male,12.4
+ Nicaragua,2011,Male,5.9
+ Niger,2011,Male,2.1
+ Nigeria,2011,Male,6.5
+ Norway,2011,Male,12.7
+ Oman,2011,Male,8.4
+ Pakistan,2011,Male,6.2
+ Palestine State of,2011,Male,9.3
+ Panama,2011,Male,9.2
+ Papua New Guinea,2011,Male,4.9
+ Paraguay,2011,Male,7.8
+ Peru,2011,Male,9.7
+ Philippines,2011,Male,9.1
+ Poland,2011,Male,12.3
+ Portugal,2011,Male,8.3
+ Qatar,2011,Male,8.4
+ Romania,2011,Male,11.2
+ Russian Federation,2011,Male,12.1
+ Rwanda,2011,Male,4.3
+ Saint Lucia,2011,Male,8.9
+ Sao Tome and Principe,2011,Male,6.3
+ Saudi Arabia,2011,Male,9.5
+ Senegal,2011,Male,3.2
+ Serbia,2011,Male,11.2
+ Sierra Leone,2011,Male,4
+ Singapore,2011,Male,11.7
+ Slovakia,2011,Male,12.7
+ Slovenia,2011,Male,12.4
+ South Africa,2011,Male,9.9
+ South Sudan,2011,Male,5.3
+ Spain,2011,Male,9.7
+ Sri Lanka,2011,Male,11.3
+ Sudan,2011,Male,3.9
+ Suriname,2011,Male,9
+ Sweden,2011,Male,12.2
+ Switzerland,2011,Male,12.8
+ Syrian Arab Republic,2011,Male,6.8
+ Tajikistan,2011,Male,11.2
+ Tanzania (United Republic of),2011,Male,6
+ Thailand,2011,Male,7.5
+ The former Yugoslav Republic of Macedonia,2011,Male,9.8
+ Timor-Leste,2011,Male,5.3
+ Togo,2011,Male,6
+ Tonga,2011,Male,11.1
+ Trinidad and Tobago,2011,Male,10.9
+ Tunisia,2011,Male,7.9
+ Turkey,2011,Male,8.5
+ Uganda,2011,Male,6.4
+ Ukraine,2011,Male,11.3
+ United Arab Emirates,2011,Male,8.7
+ United Kingdom,2011,Male,13.9
+ United States,2011,Male,13.2
+ Uruguay,2011,Male,8.2
+ Venezuela (Bolivarian Republic of),2011,Male,9.2
+ Viet Nam,2011,Male,8
+ Yemen,2011,Male,4
+ Zambia,2011,Male,7.3
+ Zimbabwe,2011,Male,8.2
+ Afghanistan,2012,Male,5.4
+ Albania,2012,Male,9.9
+ Algeria,2012,Male,8.1
+ Andorra,2012,Male,9.6
+ Argentina,2012,Male,9.5
+ Armenia,2012,Male,11.3
+ Australia,2012,Male,12.5
+ Austria,2012,Male,12.3
+ Azerbaijan,2012,Male,11
+ Bahamas,2012,Male,10.5
+ Bahrain,2012,Male,8.7
+ Bangladesh,2012,Male,6.7
+ Barbados,2012,Male,9.6
+ Belarus,2012,Male,12.1
+ Belgium,2012,Male,11.4
+ Belize,2012,Male,10.5
+ Benin,2012,Male,4.2
+ Bhutan,2012,Male,3.2
+ Bolivia (Plurinational State of),2012,Male,8.6
+ Bosnia and Herzegovina,2012,Male,9
+ Botswana,2012,Male,9.5
+ Brazil,2012,Male,7.1
+ Brunei Darussalam,2012,Male,9
+ Bulgaria,2012,Male,10.8
+ Burkina Faso,2012,Male,2
+ Burundi,2012,Male,3.4
+ Cambodia,2012,Male,5.1
+ Cameroon,2012,Male,7
+ Canada,2012,Male,12.7
+ Central African Republic,2012,Male,5.7
+ Chad,2012,Male,3.1
+ Chile,2012,Male,10
+ China,2012,Male,8
+ Colombia,2012,Male,7.6
+ Comoros,2012,Male,5.6
+ Congo,2012,Male,6.6
+ Congo (Democratic Republic of the),2012,Male,7.8
+ Costa Rica,2012,Male,8.5
+ Croatia,2012,Male,11.6
+ Cuba,2012,Male,11.2
+ Cyprus,2012,Male,12
+ Czechia,2012,Male,12.6
+ Côte d'Ivoire,2012,Male,5.6
+ Denmark,2012,Male,12.6
+ Dominican Republic,2012,Male,7.2
+ Ecuador,2012,Male,8.4
+ Egypt,2012,Male,7.8
+ El Salvador,2012,Male,7.2
+ Equatorial Guinea,2012,Male,7.3
+ Estonia,2012,Male,12.2
+ Eswatini (Kingdom of),2012,Male,6.5
+ Ethiopia,2012,Male,3.6
+ Fiji,2012,Male,10.1
+ Finland,2012,Male,12.2
+ France,2012,Male,11.2
+ Gabon,2012,Male,8.7
+ Gambia,2012,Male,3.9
+ Georgia,2012,Male,12.6
+ Germany,2012,Male,14
+ Ghana,2012,Male,7.9
+ Greece,2012,Male,10.7
+ Guatemala,2012,Male,5.4
+ Guinea,2012,Male,3.9
+ Guyana,2012,Male,8.2
+ Haiti,2012,Male,6.3
+ Honduras,2012,Male,5.5
+ Hong Kong China (SAR),2012,Male,11.9
+ Hungary,2012,Male,11.9
+ Iceland,2012,Male,11.2
+ India,2012,Male,7.6
+ Indonesia,2012,Male,8.1
+ Iran (Islamic Republic of),2012,Male,9.6
+ Iraq,2012,Male,7.7
+ Ireland,2012,Male,11
+ Israel,2012,Male,12.8
+ Italy,2012,Male,10.1
+ Jamaica,2012,Male,9.5
+ Japan,2012,Male,12
+ Jordan,2012,Male,10.5
+ Kazakhstan,2012,Male,11.6
+ Kenya,2012,Male,7.1
+ Korea (Republic of),2012,Male,12.6
+ Kuwait,2012,Male,7.3
+ Kyrgyzstan,2012,Male,10.6
+ Lao People's Democratic Republic,2012,Male,5.5
+ Latvia,2012,Male,11.7
+ Lebanon,2012,Male,8.4
+ Lesotho,2012,Male,5.1
+ Liberia,2012,Male,5.9
+ Libya,2012,Male,7
+ Lithuania,2012,Male,12.6
+ Luxembourg,2012,Male,12.2
+ Madagascar,2012,Male,6.1
+ Malawi,2012,Male,5.1
+ Malaysia,2012,Male,10.2
+ Maldives,2012,Male,5.5
+ Mali,2012,Male,2.9
+ Malta,2012,Male,11.2
+ Mauritania,2012,Male,5
+ Mauritius,2012,Male,9.1
+ Mexico,2012,Male,8.9
+ Moldova (Republic of),2012,Male,11
+ Mongolia,2012,Male,9.6
+ Montenegro,2012,Male,11.9
+ Morocco,2012,Male,5.8
+ Mozambique,2012,Male,4.4
+ Myanmar,2012,Male,4.2
+ Namibia,2012,Male,6.3
+ Nepal,2012,Male,5.5
+ Netherlands,2012,Male,12.4
+ New Zealand,2012,Male,12.4
+ Nicaragua,2012,Male,6.1
+ Niger,2012,Male,2.3
+ Nigeria,2012,Male,6.8
+ Norway,2012,Male,12.6
+ Oman,2012,Male,8.6
+ Pakistan,2012,Male,6.4
+ Palestine State of,2012,Male,9.5
+ Panama,2012,Male,9.4
+ Papua New Guinea,2012,Male,5
+ Paraguay,2012,Male,7.8
+ Peru,2012,Male,9.1
+ Philippines,2012,Male,9.1
+ Poland,2012,Male,11.8
+ Portugal,2012,Male,8.5
+ Qatar,2012,Male,8.9
+ Romania,2012,Male,11.3
+ Russian Federation,2012,Male,12.1
+ Rwanda,2012,Male,4.3
+ Saint Lucia,2012,Male,8.9
+ Sao Tome and Principe,2012,Male,6
+ Saudi Arabia,2012,Male,9.8
+ Senegal,2012,Male,3.3
+ Serbia,2012,Male,11.1
+ Sierra Leone,2012,Male,4.1
+ Singapore,2012,Male,11.8
+ Slovakia,2012,Male,12.5
+ Slovenia,2012,Male,11.8
+ South Africa,2012,Male,10.2
+ South Sudan,2012,Male,5.3
+ Spain,2012,Male,9.7
+ Sri Lanka,2012,Male,11.4
+ Sudan,2012,Male,4
+ Suriname,2012,Male,8.5
+ Sweden,2012,Male,12.3
+ Switzerland,2012,Male,12.9
+ Syrian Arab Republic,2012,Male,6.8
+ Tajikistan,2012,Male,11.2
+ Tanzania (United Republic of),2012,Male,6.1
+ Thailand,2012,Male,7.5
+ The former Yugoslav Republic of Macedonia,2012,Male,9.8
+ Timor-Leste,2012,Male,5.2
+ Togo,2012,Male,6.1
+ Tonga,2012,Male,11.1
+ Trinidad and Tobago,2012,Male,10.9
+ Tunisia,2012,Male,7.8
+ Turkey,2012,Male,8.6
+ Uganda,2012,Male,6.3
+ Ukraine,2012,Male,11.3
+ United Arab Emirates,2012,Male,8.7
+ United Kingdom,2012,Male,13.6
+ United States,2012,Male,13.3
+ Uruguay,2012,Male,8.2
+ Venezuela (Bolivarian Republic of),2012,Male,9.3
+ Viet Nam,2012,Male,8
+ Yemen,2012,Male,4.2
+ Zambia,2012,Male,7.3
+ Zimbabwe,2012,Male,8.2
+ Afghanistan,2013,Male,5.5
+ Albania,2013,Male,10
+ Algeria,2013,Male,8.2
+ Andorra,2013,Male,10
+ Argentina,2013,Male,9.7
+ Armenia,2013,Male,11.3
+ Australia,2013,Male,12.6
+ Austria,2013,Male,12.3
+ Azerbaijan,2013,Male,11.2
+ Bahamas,2013,Male,10.5
+ Bahrain,2013,Male,8.9
+ Bangladesh,2013,Male,6.3
+ Barbados,2013,Male,9.9
+ Belarus,2013,Male,12.1
+ Belgium,2013,Male,11.4
+ Belize,2013,Male,10.5
+ Benin,2013,Male,4.3
+ Bhutan,2013,Male,3.7
+ Bolivia (Plurinational State of),2013,Male,8.9
+ Bosnia and Herzegovina,2013,Male,9.8
+ Botswana,2013,Male,9.5
+ Brazil,2013,Male,7.1
+ Brunei Darussalam,2013,Male,9
+ Bulgaria,2013,Male,10.9
+ Burkina Faso,2013,Male,2
+ Burundi,2013,Male,3.6
+ Cambodia,2013,Male,5.2
+ Cameroon,2013,Male,7.1
+ Canada,2013,Male,12.7
+ Central African Republic,2013,Male,5.7
+ Chad,2013,Male,3.3
+ Chile,2013,Male,10.2
+ China,2013,Male,8.1
+ Colombia,2013,Male,7.7
+ Comoros,2013,Male,5.6
+ Congo,2013,Male,6.6
+ Congo (Democratic Republic of the),2013,Male,8.1
+ Costa Rica,2013,Male,8.5
+ Croatia,2013,Male,11.6
+ Cuba,2013,Male,11.5
+ Cyprus,2013,Male,12.2
+ Czechia,2013,Male,12.8
+ Côte d'Ivoire,2013,Male,5.7
+ Denmark,2013,Male,13.1
+ Dominican Republic,2013,Male,7.3
+ Ecuador,2013,Male,8.6
+ Egypt,2013,Male,7.8
+ El Salvador,2013,Male,7
+ Equatorial Guinea,2013,Male,7.3
+ Estonia,2013,Male,12.2
+ Eswatini (Kingdom of),2013,Male,6.7
+ Ethiopia,2013,Male,3.7
+ Fiji,2013,Male,10.2
+ Finland,2013,Male,12.2
+ France,2013,Male,11.4
+ Gabon,2013,Male,9
+ Gambia,2013,Male,4
+ Georgia,2013,Male,12.6
+ Germany,2013,Male,14.2
+ Ghana,2013,Male,7.9
+ Greece,2013,Male,10.8
+ Guatemala,2013,Male,5.3
+ Guinea,2013,Male,3.9
+ Guyana,2013,Male,8.4
+ Haiti,2013,Male,6.4
+ Honduras,2013,Male,5.8
+ Hong Kong China (SAR),2013,Male,12
+ Hungary,2013,Male,12.1
+ Iceland,2013,Male,11.7
+ India,2013,Male,7.8
+ Indonesia,2013,Male,8.2
+ Iran (Islamic Republic of),2013,Male,9.9
+ Iraq,2013,Male,7.8
+ Ireland,2013,Male,11.3
+ Israel,2013,Male,12.8
+ Italy,2013,Male,10.2
+ Jamaica,2013,Male,9.5
+ Japan,2013,Male,12.2
+ Jordan,2013,Male,10.7
+ Kazakhstan,2013,Male,11.6
+ Kenya,2013,Male,7.1
+ Korea (Republic of),2013,Male,12.7
+ Kuwait,2013,Male,6.4
+ Kyrgyzstan,2013,Male,10.6
+ Lao People's Democratic Republic,2013,Male,5.5
+ Latvia,2013,Male,11.7
+ Lebanon,2013,Male,8.5
+ Lesotho,2013,Male,5.2
+ Liberia,2013,Male,5.9
+ Libya,2013,Male,7
+ Lithuania,2013,Male,12.6
+ Luxembourg,2013,Male,12.2
+ Madagascar,2013,Male,6.1
+ Malawi,2013,Male,5.1
+ Malaysia,2013,Male,10.2
+ Maldives,2013,Male,5.8
+ Mali,2013,Male,3
+ Malta,2013,Male,11.4
+ Mauritania,2013,Male,5.2
+ Mauritius,2013,Male,9.2
+ Mexico,2013,Male,8.6
+ Moldova (Republic of),2013,Male,11.4
+ Mongolia,2013,Male,9.7
+ Montenegro,2013,Male,12
+ Morocco,2013,Male,6
+ Mozambique,2013,Male,4.5
+ Myanmar,2013,Male,4.5
+ Namibia,2013,Male,6.4
+ Nepal,2013,Male,5.8
+ Netherlands,2013,Male,12.4
+ New Zealand,2013,Male,12.4
+ Nicaragua,2013,Male,6.2
+ Niger,2013,Male,2.3
+ Nigeria,2013,Male,7.1
+ Norway,2013,Male,12.7
+ Oman,2013,Male,8.8
+ Pakistan,2013,Male,6.5
+ Palestine State of,2013,Male,9.3
+ Panama,2013,Male,9.5
+ Papua New Guinea,2013,Male,5.1
+ Paraguay,2013,Male,8.3
+ Peru,2013,Male,9.3
+ Philippines,2013,Male,9.2
+ Poland,2013,Male,12.1
+ Portugal,2013,Male,8.6
+ Qatar,2013,Male,9.7
+ Romania,2013,Male,11.3
+ Russian Federation,2013,Male,12.1
+ Rwanda,2013,Male,4.4
+ Saint Lucia,2013,Male,8.1
+ Sao Tome and Principe,2013,Male,6
+ Saudi Arabia,2013,Male,9.9
+ Senegal,2013,Male,3.5
+ Serbia,2013,Male,11
+ Sierra Leone,2013,Male,4.1
+ Singapore,2013,Male,11.9
+ Slovakia,2013,Male,12.4
+ Slovenia,2013,Male,11.9
+ South Africa,2013,Male,10.3
+ South Sudan,2013,Male,5.3
+ Spain,2013,Male,9.9
+ Sri Lanka,2013,Male,11.4
+ Sudan,2013,Male,4
+ Suriname,2013,Male,8.5
+ Sweden,2013,Male,12.1
+ Switzerland,2013,Male,12.9
+ Syrian Arab Republic,2013,Male,6.8
+ Tajikistan,2013,Male,11.2
+ Tanzania (United Republic of),2013,Male,6.2
+ Thailand,2013,Male,7.8
+ The former Yugoslav Republic of Macedonia,2013,Male,9.8
+ Timor-Leste,2013,Male,5.2
+ Togo,2013,Male,6.3
+ Tonga,2013,Male,11.1
+ Trinidad and Tobago,2013,Male,11
+ Tunisia,2013,Male,7.8
+ Turkey,2013,Male,8.5
+ Uganda,2013,Male,6.7
+ Ukraine,2013,Male,11.3
+ United Arab Emirates,2013,Male,8.9
+ United Kingdom,2013,Male,13.3
+ United States,2013,Male,13.2
+ Uruguay,2013,Male,8.3
+ Uzbekistan,2013,Male,11.5
+ Venezuela (Bolivarian Republic of),2013,Male,9.4
+ Viet Nam,2013,Male,8.1
+ Yemen,2013,Male,4.2
+ Zambia,2013,Male,7.4
+ Zimbabwe,2013,Male,8.2
+ Afghanistan,2014,Male,5.6
+ Albania,2014,Male,10.1
+ Algeria,2014,Male,8.4
+ Andorra,2014,Male,10.3
+ Argentina,2014,Male,9.7
+ Armenia,2014,Male,11.3
+ Australia,2014,Male,12.6
+ Austria,2014,Male,12.6
+ Azerbaijan,2014,Male,11
+ Bahamas,2014,Male,10.5
+ Bahrain,2014,Male,9.1
+ Bangladesh,2014,Male,5.6
+ Barbados,2014,Male,10.1
+ Belarus,2014,Male,12.1
+ Belgium,2014,Male,11.6
+ Belize,2014,Male,10.5
+ Benin,2014,Male,4.3
+ Bhutan,2014,Male,4.2
+ Bolivia (Plurinational State of),2014,Male,9.2
+ Bosnia and Herzegovina,2014,Male,10.6
+ Botswana,2014,Male,9.5
+ Brazil,2014,Male,7.2
+ Brunei Darussalam,2014,Male,9.1
+ Bulgaria,2014,Male,10.9
+ Burkina Faso,2014,Male,2
+ Burundi,2014,Male,3.6
+ Cambodia,2014,Male,5.4
+ Cameroon,2014,Male,7.2
+ Canada,2014,Male,12.8
+ Central African Republic,2014,Male,5.7
+ Chad,2014,Male,3.4
+ Chile,2014,Male,10.4
+ China,2014,Male,8.1
+ Colombia,2014,Male,7.9
+ Comoros,2014,Male,5.6
+ Congo,2014,Male,6.7
+ Congo (Democratic Republic of the),2014,Male,8.1
+ Costa Rica,2014,Male,8.8
+ Croatia,2014,Male,11.6
+ Cuba,2014,Male,11.7
+ Cyprus,2014,Male,12
+ Czechia,2014,Male,13.1
+ Côte d'Ivoire,2014,Male,5.9
+ Denmark,2014,Male,12.9
+ Dominican Republic,2014,Male,7.4
+ Ecuador,2014,Male,8.5
+ Egypt,2014,Male,7.8
+ El Salvador,2014,Male,7.1
+ Equatorial Guinea,2014,Male,7.3
+ Estonia,2014,Male,12.2
+ Eswatini (Kingdom of),2014,Male,6.9
+ Ethiopia,2014,Male,3.7
+ Fiji,2014,Male,10.2
+ Finland,2014,Male,12.2
+ France,2014,Male,11.7
+ Gabon,2014,Male,9
+ Gambia,2014,Male,4.1
+ Georgia,2014,Male,12.6
+ Germany,2014,Male,14.3
+ Ghana,2014,Male,7.9
+ Greece,2014,Male,10.9
+ Guatemala,2014,Male,6.3
+ Guinea,2014,Male,3.9
+ Guyana,2014,Male,8.4
+ Haiti,2014,Male,6.5
+ Honduras,2014,Male,6.1
+ Hong Kong China (SAR),2014,Male,12.4
+ Hungary,2014,Male,12
+ Iceland,2014,Male,12.1
+ India,2014,Male,8
+ Indonesia,2014,Male,8.3
+ Iran (Islamic Republic of),2014,Male,9.9
+ Iraq,2014,Male,7.8
+ Ireland,2014,Male,11.6
+ Israel,2014,Male,12.9
+ Italy,2014,Male,10.3
+ Jamaica,2014,Male,9.5
+ Japan,2014,Male,12.4
+ Jordan,2014,Male,10.7
+ Kazakhstan,2014,Male,11.6
+ Kenya,2014,Male,7
+ Korea (Republic of),2014,Male,12.8
+ Kuwait,2014,Male,6.6
+ Kyrgyzstan,2014,Male,10.7
+ Lao People's Democratic Republic,2014,Male,5.6
+ Latvia,2014,Male,12.5
+ Lebanon,2014,Male,8.6
+ Lesotho,2014,Male,5.2
+ Liberia,2014,Male,6
+ Libya,2014,Male,7
+ Lithuania,2014,Male,12.8
+ Luxembourg,2014,Male,12.3
+ Madagascar,2014,Male,6.1
+ Malawi,2014,Male,5
+ Malaysia,2014,Male,10.2
+ Maldives,2014,Male,6
+ Mali,2014,Male,3
+ Malta,2014,Male,11.5
+ Mauritania,2014,Male,5.3
+ Mauritius,2014,Male,9.4
+ Mexico,2014,Male,8.6
+ Moldova (Republic of),2014,Male,11.7
+ Mongolia,2014,Male,9.8
+ Montenegro,2014,Male,12
+ Morocco,2014,Male,6.2
+ Mozambique,2014,Male,4.6
+ Myanmar,2014,Male,4.7
+ Namibia,2014,Male,6.4
+ Nepal,2014,Male,6
+ Netherlands,2014,Male,12.4
+ New Zealand,2014,Male,12.4
+ Nicaragua,2014,Male,6.3
+ Niger,2014,Male,2.4
+ Nigeria,2014,Male,7.1
+ Norway,2014,Male,12.5
+ Oman,2014,Male,9
+ Pakistan,2014,Male,6.5
+ Palestine State of,2014,Male,9.3
+ Panama,2014,Male,9.5
+ Papua New Guinea,2014,Male,5.2
+ Paraguay,2014,Male,8.3
+ Peru,2014,Male,9.9
+ Philippines,2014,Male,9.2
+ Poland,2014,Male,12.2
+ Portugal,2014,Male,8.9
+ Qatar,2014,Male,9.5
+ Romania,2014,Male,11.3
+ Russian Federation,2014,Male,12.1
+ Rwanda,2014,Male,4.6
+ Saint Lucia,2014,Male,8.4
+ Sao Tome and Principe,2014,Male,6
+ Saudi Arabia,2014,Male,9.9
+ Senegal,2014,Male,3.6
+ Serbia,2014,Male,11.3
+ Sierra Leone,2014,Male,4.2
+ Singapore,2014,Male,12
+ Slovakia,2014,Male,12.3
+ Slovenia,2014,Male,12.1
+ South Africa,2014,Male,10.4
+ South Sudan,2014,Male,5.3
+ Spain,2014,Male,10
+ Sri Lanka,2014,Male,11.4
+ Sudan,2014,Male,4.1
+ Suriname,2014,Male,8.5
+ Sweden,2014,Male,12.2
+ Switzerland,2014,Male,12.9
+ Syrian Arab Republic,2014,Male,6.1
+ Tajikistan,2014,Male,11.2
+ Tanzania (United Republic of),2014,Male,6.2
+ Thailand,2014,Male,7.8
+ The former Yugoslav Republic of Macedonia,2014,Male,9.8
+ Timor-Leste,2014,Male,5.2
+ Togo,2014,Male,6.3
+ Tonga,2014,Male,11.1
+ Trinidad and Tobago,2014,Male,11
+ Tunisia,2014,Male,7.8
+ Turkey,2014,Male,8.7
+ Uganda,2014,Male,6.8
+ Ukraine,2014,Male,11.3
+ United Arab Emirates,2014,Male,9.2
+ United Kingdom,2014,Male,13.4
+ United States,2014,Male,13.2
+ Uruguay,2014,Male,8.4
+ Uzbekistan,2014,Male,11.5
+ Venezuela (Bolivarian Republic of),2014,Male,9.5
+ Viet Nam,2014,Male,8.1
+ Yemen,2014,Male,4.2
+ Zambia,2014,Male,7.4
+ Zimbabwe,2014,Male,8.9
+ Afghanistan,2015,Male,5.8
+ Albania,2015,Male,10.1
+ Algeria,2015,Male,8.5
+ Andorra,2015,Male,10.2
+ Argentina,2015,Male,9.6
+ Armenia,2015,Male,11.3
+ Australia,2015,Male,12.7
+ Austria,2015,Male,12.6
+ Azerbaijan,2015,Male,11
+ Bahamas,2015,Male,10.5
+ Bahrain,2015,Male,9.2
+ Bangladesh,2015,Male,6.5
+ Barbados,2015,Male,10.3
+ Belarus,2015,Male,12.1
+ Belgium,2015,Male,11.7
+ Belize,2015,Male,10.4
+ Benin,2015,Male,4.3
+ Bhutan,2015,Male,4.2
+ Bolivia (Plurinational State of),2015,Male,9.4
+ Bosnia and Herzegovina,2015,Male,10.6
+ Botswana,2015,Male,9.5
+ Brazil,2015,Male,7.3
+ Brunei Darussalam,2015,Male,9.1
+ Bulgaria,2015,Male,11.7
+ Burkina Faso,2015,Male,2
+ Burundi,2015,Male,3.6
+ Cabo Verde,2015,Male,6.4
+ Cambodia,2015,Male,5.5
+ Cameroon,2015,Male,7.4
+ Canada,2015,Male,12.9
+ Central African Republic,2015,Male,5.7
+ Chad,2015,Male,3.4
+ Chile,2015,Male,10.5
+ China,2015,Male,8.2
+ Colombia,2015,Male,7.9
+ Comoros,2015,Male,5.6
+ Congo,2015,Male,6.7
+ Congo (Democratic Republic of the),2015,Male,8.2
+ Costa Rica,2015,Male,8.5
+ Croatia,2015,Male,11.6
+ Cuba,2015,Male,12
+ Cyprus,2015,Male,12
+ Czechia,2015,Male,12.9
+ Côte d'Ivoire,2015,Male,6.1
+ Denmark,2015,Male,12.4
+ Dominican Republic,2015,Male,7.5
+ Ecuador,2015,Male,8.8
+ Egypt,2015,Male,7.9
+ El Salvador,2015,Male,7.2
+ Equatorial Guinea,2015,Male,7.3
+ Estonia,2015,Male,12.2
+ Eswatini (Kingdom of),2015,Male,6.9
+ Ethiopia,2015,Male,3.7
+ Fiji,2015,Male,10.2
+ Finland,2015,Male,12.3
+ France,2015,Male,11.8
+ Gabon,2015,Male,9
+ Gambia,2015,Male,4.2
+ Georgia,2015,Male,12.2
+ Germany,2015,Male,14.5
+ Ghana,2015,Male,7.9
+ Greece,2015,Male,10.9
+ Guatemala,2015,Male,6.3
+ Guinea,2015,Male,3.9
+ Guyana,2015,Male,8.4
+ Haiti,2015,Male,6.6
+ Honduras,2015,Male,6.2
+ Hong Kong China (SAR),2015,Male,12.5
+ Hungary,2015,Male,12.1
+ Iceland,2015,Male,12.6
+ India,2015,Male,8.2
+ Indonesia,2015,Male,8.4
+ Iran (Islamic Republic of),2015,Male,9.9
+ Iraq,2015,Male,7.8
+ Ireland,2015,Male,11.9
+ Israel,2015,Male,13
+ Italy,2015,Male,10.4
+ Jamaica,2015,Male,9.5
+ Japan,2015,Male,12.4
+ Jordan,2015,Male,10.7
+ Kazakhstan,2015,Male,11.7
+ Kenya,2015,Male,7
+ Korea (Republic of),2015,Male,12.9
+ Kuwait,2015,Male,6.8
+ Kyrgyzstan,2015,Male,10.7
+ Lao People's Democratic Republic,2015,Male,5.6
+ Latvia,2015,Male,12.5
+ Lebanon,2015,Male,8.7
+ Lesotho,2015,Male,5.3
+ Liberia,2015,Male,6
+ Libya,2015,Male,7
+ Lithuania,2015,Male,13
+ Luxembourg,2015,Male,12.3
+ Madagascar,2015,Male,6.1
+ Malawi,2015,Male,5
+ Malaysia,2015,Male,10.3
+ Maldives,2015,Male,6.3
+ Mali,2015,Male,3
+ Malta,2015,Male,11.5
+ Mauritania,2015,Male,5.4
+ Mauritius,2015,Male,9.5
+ Mexico,2015,Male,8.8
+ Moldova (Republic of),2015,Male,11.7
+ Mongolia,2015,Male,9.8
+ Montenegro,2015,Male,12
+ Morocco,2015,Male,6.4
+ Mozambique,2015,Male,4.6
+ Myanmar,2015,Male,4.7
+ Namibia,2015,Male,6.5
+ Nepal,2015,Male,6.2
+ Netherlands,2015,Male,12.5
+ New Zealand,2015,Male,12.5
+ Nicaragua,2015,Male,6.4
+ Niger,2015,Male,2.5
+ Nigeria,2015,Male,7.1
+ Norway,2015,Male,12.5
+ Oman,2015,Male,9.2
+ Pakistan,2015,Male,6.5
+ Palestine State of,2015,Male,9.3
+ Panama,2015,Male,9.5
+ Papua New Guinea,2015,Male,5.3
+ Paraguay,2015,Male,8.5
+ Peru,2015,Male,9.7
+ Philippines,2015,Male,9.2
+ Poland,2015,Male,12.2
+ Portugal,2015,Male,9
+ Qatar,2015,Male,9.5
+ Romania,2015,Male,11.3
+ Russian Federation,2015,Male,12.1
+ Rwanda,2015,Male,4.5
+ Saint Lucia,2015,Male,8.7
+ Sao Tome and Principe,2015,Male,6.3
+ Saudi Arabia,2015,Male,9.9
+ Senegal,2015,Male,3.7
+ Serbia,2015,Male,11.5
+ Sierra Leone,2015,Male,4.2
+ Singapore,2015,Male,12.1
+ Slovakia,2015,Male,12.3
+ Slovenia,2015,Male,12.1
+ South Africa,2015,Male,10.4
+ South Sudan,2015,Male,5.3
+ Spain,2015,Male,9.9
+ Sri Lanka,2015,Male,11.4
+ Sudan,2015,Male,4.1
+ Suriname,2015,Male,8.5
+ Sweden,2015,Male,12.3
+ Switzerland,2015,Male,12.9
+ Syrian Arab Republic,2015,Male,5.6
+ Tajikistan,2015,Male,11.2
+ Tanzania (United Republic of),2015,Male,6.2
+ Thailand,2015,Male,7.8
+ The former Yugoslav Republic of Macedonia,2015,Male,9.8
+ Timor-Leste,2015,Male,5.3
+ Togo,2015,Male,6.3
+ Tonga,2015,Male,11.1
+ Trinidad and Tobago,2015,Male,10.8
+ Tunisia,2015,Male,7.8
+ Turkey,2015,Male,8.8
+ Uganda,2015,Male,6.8
+ Ukraine,2015,Male,11.3
+ United Arab Emirates,2015,Male,9.5
+ United Kingdom,2015,Male,13.4
+ United States,2015,Male,13.3
+ Uruguay,2015,Male,8.4
+ Uzbekistan,2015,Male,11.6
+ Venezuela (Bolivarian Republic of),2015,Male,9.6
+ Viet Nam,2015,Male,8.2
+ Yemen,2015,Male,4.2
+ Zambia,2015,Male,7.4
+ Zimbabwe,2015,Male,8.9
+ Afghanistan,2016,Male,5.9
+ Albania,2016,Male,10.2
+ Algeria,2016,Male,8.6
+ Andorra,2016,Male,10.2
+ Argentina,2016,Male,9.7
+ Armenia,2016,Male,11.7
+ Australia,2016,Male,12.8
+ Austria,2016,Male,12.6
+ Azerbaijan,2016,Male,11
+ Bahamas,2016,Male,10.5
+ Bahrain,2016,Male,9.4
+ Bangladesh,2016,Male,6.6
+ Barbados,2016,Male,10.4
+ Belarus,2016,Male,12.4
+ Belgium,2016,Male,11.9
+ Belize,2016,Male,10.4
+ Benin,2016,Male,4.3
+ Bhutan,2016,Male,4.2
+ Bolivia (Plurinational State of),2016,Male,9.7
+ Bosnia and Herzegovina,2016,Male,10.9
+ Botswana,2016,Male,9.5
+ Brazil,2016,Male,7.5
+ Brunei Darussalam,2016,Male,9.1
+ Bulgaria,2016,Male,11.8
+ Burkina Faso,2016,Male,2
+ Burundi,2016,Male,3.7
+ Cabo Verde,2016,Male,6.4
+ Cambodia,2016,Male,5.6
+ Cameroon,2016,Male,7.6
+ Canada,2016,Male,12.9
+ Central African Republic,2016,Male,5.6
+ Chad,2016,Male,3.4
+ Chile,2016,Male,10.5
+ China,2016,Male,8.3
+ Colombia,2016,Male,8.1
+ Comoros,2016,Male,5.6
+ Congo,2016,Male,6.7
+ Congo (Democratic Republic of the),2016,Male,8.3
+ Costa Rica,2016,Male,8.5
+ Croatia,2016,Male,11.7
+ Cuba,2016,Male,12.1
+ Cyprus,2016,Male,12.2
+ Czechia,2016,Male,13
+ Côte d'Ivoire,2016,Male,6.2
+ Denmark,2016,Male,12.4
+ Dominican Republic,2016,Male,7.5
+ Ecuador,2016,Male,8.8
+ Egypt,2016,Male,7.9
+ El Salvador,2016,Male,7.3
+ Equatorial Guinea,2016,Male,7.3
+ Estonia,2016,Male,12.2
+ Eswatini (Kingdom of),2016,Male,6.9
+ Ethiopia,2016,Male,3.8
+ Fiji,2016,Male,10.7
+ Finland,2016,Male,12.3
+ France,2016,Male,11.8
+ Gabon,2016,Male,9.1
+ Gambia,2016,Male,4.2
+ Georgia,2016,Male,12.8
+ Germany,2016,Male,14.5
+ Ghana,2016,Male,7.9
+ Greece,2016,Male,11
+ Guatemala,2016,Male,6.5
+ Guinea,2016,Male,3.9
+ Guyana,2016,Male,8.4
+ Haiti,2016,Male,6.6
+ Honduras,2016,Male,6.5
+ Hong Kong China (SAR),2016,Male,12.5
+ Hungary,2016,Male,12.1
+ Iceland,2016,Male,12.7
+ India,2016,Male,8.2
+ Indonesia,2016,Male,8.4
+ Iran (Islamic Republic of),2016,Male,9.9
+ Iraq,2016,Male,7.8
+ Ireland,2016,Male,12.1
+ Israel,2016,Male,13
+ Italy,2016,Male,10.4
+ Jamaica,2016,Male,9.5
+ Japan,2016,Male,12.5
+ Jordan,2016,Male,10.6
+ Kazakhstan,2016,Male,11.7
+ Kenya,2016,Male,7.1
+ Korea (Republic of),2016,Male,12.9
+ Kuwait,2016,Male,6.9
+ Kyrgyzstan,2016,Male,10.8
+ Lao People's Democratic Republic,2016,Male,5.7
+ Latvia,2016,Male,12.5
+ Lebanon,2016,Male,8.8
+ Lesotho,2016,Male,5.5
+ Liberia,2016,Male,6.1
+ Libya,2016,Male,7
+ Lithuania,2016,Male,13
+ Luxembourg,2016,Male,12.4
+ Madagascar,2016,Male,6.1
+ Malawi,2016,Male,5.1
+ Malaysia,2016,Male,10.3
+ Maldives,2016,Male,6.4
+ Mali,2016,Male,3
+ Malta,2016,Male,11.6
+ Mauritania,2016,Male,5.4
+ Mauritius,2016,Male,9.5
+ Mexico,2016,Male,8.8
+ Moldova (Republic of),2016,Male,11.7
+ Mongolia,2016,Male,9.8
+ Montenegro,2016,Male,12
+ Morocco,2016,Male,6.4
+ Mozambique,2016,Male,4.6
+ Myanmar,2016,Male,4.8
+ Namibia,2016,Male,6.5
+ Nepal,2016,Male,6.4
+ Netherlands,2016,Male,12.5
+ New Zealand,2016,Male,12.5
+ Nicaragua,2016,Male,6.4
+ Niger,2016,Male,2.5
+ Nigeria,2016,Male,7.3
+ Norway,2016,Male,12.5
+ Oman,2016,Male,9.2
+ Pakistan,2016,Male,6.5
+ Palestine State of,2016,Male,9.3
+ Panama,2016,Male,9.8
+ Papua New Guinea,2016,Male,5.3
+ Paraguay,2016,Male,8.3
+ Peru,2016,Male,9.7
+ Philippines,2016,Male,9.2
+ Poland,2016,Male,12.3
+ Portugal,2016,Male,9.2
+ Qatar,2016,Male,9.5
+ Romania,2016,Male,11.3
+ Russian Federation,2016,Male,12.1
+ Rwanda,2016,Male,4.7
+ Saint Lucia,2016,Male,8.9
+ Sao Tome and Principe,2016,Male,6.7
+ Saudi Arabia,2016,Male,9.9
+ Senegal,2016,Male,3.8
+ Serbia,2016,Male,11.6
+ Sierra Leone,2016,Male,4.2
+ Singapore,2016,Male,12.1
+ Slovakia,2016,Male,12.6
+ Slovenia,2016,Male,12.3
+ South Africa,2016,Male,10.4
+ South Sudan,2016,Male,5.3
+ Spain,2016,Male,10
+ Sri Lanka,2016,Male,11.4
+ Sudan,2016,Male,4.1
+ Suriname,2016,Male,8.6
+ Sweden,2016,Male,12.3
+ Switzerland,2016,Male,12.9
+ Syrian Arab Republic,2016,Male,5.6
+ Tajikistan,2016,Male,10.2
+ Tanzania (United Republic of),2016,Male,6.2
+ Thailand,2016,Male,7.8
+ The former Yugoslav Republic of Macedonia,2016,Male,9.9
+ Timor-Leste,2016,Male,5.3
+ Togo,2016,Male,6.5
+ Tonga,2016,Male,11.1
+ Trinidad and Tobago,2016,Male,10.8
+ Tunisia,2016,Male,7.9
+ Turkey,2016,Male,8.8
+ Uganda,2016,Male,6.9
+ Ukraine,2016,Male,11.3
+ United Arab Emirates,2016,Male,9.7
+ United Kingdom,2016,Male,13.5
+ United States,2016,Male,13.3
+ Uruguay,2016,Male,8.4
+ Uzbekistan,2016,Male,11.8
+ Venezuela (Bolivarian Republic of),2016,Male,9.6
+ Viet Nam,2016,Male,8.3
+ Yemen,2016,Male,4.2
+ Zambia,2016,Male,7.4
+ Zimbabwe,2016,Male,8.9
+ Afghanistan,2017,Male,6
+ Albania,2017,Male,10.2
+ Algeria,2017,Male,8.6
+ Andorra,2017,Male,10.2
+ Argentina,2017,Male,9.7
+ Armenia,2017,Male,11.7
+ Australia,2017,Male,12.8
+ Austria,2017,Male,12.6
+ Azerbaijan,2017,Male,11
+ Bahamas,2017,Male,10.5
+ Bahrain,2017,Male,9.5
+ Bangladesh,2017,Male,6.7
+ Barbados,2017,Male,10.4
+ Belarus,2017,Male,12.4
+ Belgium,2017,Male,11.9
+ Belize,2017,Male,10.4
+ Benin,2017,Male,4.3
+ Bhutan,2017,Male,4.2
+ Bolivia (Plurinational State of),2017,Male,9.7
+ Bosnia and Herzegovina,2017,Male,10.9
+ Botswana,2017,Male,9.5
+ Brazil,2017,Male,7.7
+ Brunei Darussalam,2017,Male,9.1
+ Bulgaria,2017,Male,11.8
+ Burkina Faso,2017,Male,2
+ Burundi,2017,Male,3.7
+ Cabo Verde,2017,Male,6.4
+ Cambodia,2017,Male,5.6
+ Cameroon,2017,Male,7.6
+ Canada,2017,Male,12.9
+ Central African Republic,2017,Male,5.6
+ Chad,2017,Male,3.4
+ Chile,2017,Male,10.5
+ China,2017,Male,8.3
+ Colombia,2017,Male,8.1
+ Comoros,2017,Male,5.6
+ Congo,2017,Male,6.7
+ Congo (Democratic Republic of the),2017,Male,8.4
+ Costa Rica,2017,Male,8.5
+ Croatia,2017,Male,11.7
+ Cuba,2017,Male,12.1
+ Cyprus,2017,Male,12.2
+ Czechia,2017,Male,13.1
+ Côte d'Ivoire,2017,Male,6.2
+ Denmark,2017,Male,12.4
+ Dominican Republic,2017,Male,7.5
+ Ecuador,2017,Male,8.8
+ Egypt,2017,Male,7.9
+ El Salvador,2017,Male,7.3
+ Equatorial Guinea,2017,Male,7.3
+ Estonia,2017,Male,12.2
+ Eswatini (Kingdom of),2017,Male,6.9
+ Ethiopia,2017,Male,3.8
+ Fiji,2017,Male,10.7
+ Finland,2017,Male,12.3
+ France,2017,Male,11.8
+ Gabon,2017,Male,9.1
+ Gambia,2017,Male,4.3
+ Georgia,2017,Male,12.8
+ Germany,2017,Male,14.5
+ Ghana,2017,Male,7.9
+ Greece,2017,Male,11
+ Guatemala,2017,Male,6.5
+ Guinea,2017,Male,3.9
+ Guyana,2017,Male,8.4
+ Haiti,2017,Male,6.6
+ Honduras,2017,Male,6.5
+ Hong Kong China (SAR),2017,Male,12.5
+ Hungary,2017,Male,12.1
+ Iceland,2017,Male,12.7
+ India,2017,Male,8.2
+ Indonesia,2017,Male,8.4
+ Iran (Islamic Republic of),2017,Male,9.9
+ Iraq,2017,Male,7.8
+ Ireland,2017,Male,12.1
+ Israel,2017,Male,13
+ Italy,2017,Male,10.4
+ Jamaica,2017,Male,9.5
+ Japan,2017,Male,12.5
+ Jordan,2017,Male,10.6
+ Kazakhstan,2017,Male,11.7
+ Kenya,2017,Male,7.1
+ Korea (Republic of),2017,Male,12.9
+ Kuwait,2017,Male,6.9
+ Kyrgyzstan,2017,Male,10.8
+ Lao People's Democratic Republic,2017,Male,5.7
+ Latvia,2017,Male,12.5
+ Lebanon,2017,Male,8.9
+ Lesotho,2017,Male,5.5
+ Liberia,2017,Male,6.1
+ Libya,2017,Male,7
+ Lithuania,2017,Male,13
+ Luxembourg,2017,Male,12.4
+ Madagascar,2017,Male,6.1
+ Malawi,2017,Male,5.1
+ Malaysia,2017,Male,10.3
+ Maldives,2017,Male,6.4
+ Mali,2017,Male,3
+ Malta,2017,Male,11.6
+ Marshall Islands,2017,Male,11.1
+ Mauritania,2017,Male,5.5
+ Mauritius,2017,Male,9.5
+ Mexico,2017,Male,8.8
+ Moldova (Republic of),2017,Male,11.7
+ Mongolia,2017,Male,9.8
+ Montenegro,2017,Male,12
+ Morocco,2017,Male,6.5
+ Mozambique,2017,Male,4.6
+ Myanmar,2017,Male,4.8
+ Namibia,2017,Male,6.6
+ Nepal,2017,Male,6.4
+ Netherlands,2017,Male,12.5
+ New Zealand,2017,Male,12.5
+ Nicaragua,2017,Male,6.4
+ Niger,2017,Male,2.6
+ Nigeria,2017,Male,7.3
+ Norway,2017,Male,12.5
+ Oman,2017,Male,9.2
+ Pakistan,2017,Male,6.5
+ Palestine State of,2017,Male,9.3
+ Panama,2017,Male,9.9
+ Papua New Guinea,2017,Male,5.3
+ Paraguay,2017,Male,8.3
+ Peru,2017,Male,9.7
+ Philippines,2017,Male,9.2
+ Poland,2017,Male,12.3
+ Portugal,2017,Male,9.2
+ Qatar,2017,Male,9.5
+ Romania,2017,Male,11.3
+ Russian Federation,2017,Male,12.1
+ Rwanda,2017,Male,4.7
+ Saint Lucia,2017,Male,8.7
+ Sao Tome and Principe,2017,Male,7.1
+ Saudi Arabia,2017,Male,9.9
+ Senegal,2017,Male,3.8
+ Serbia,2017,Male,11.6
+ Sierra Leone,2017,Male,4.3
+ Singapore,2017,Male,12.1
+ Slovakia,2017,Male,12.6
+ Slovenia,2017,Male,12.3
+ South Africa,2017,Male,10.4
+ South Sudan,2017,Male,5.3
+ Spain,2017,Male,10
+ Sri Lanka,2017,Male,11.4
+ Sudan,2017,Male,4.1
+ Suriname,2017,Male,8.6
+ Sweden,2017,Male,12.3
+ Switzerland,2017,Male,12.9
+ Syrian Arab Republic,2017,Male,5.6
+ Tajikistan,2017,Male,10.2
+ Tanzania (United Republic of),2017,Male,6.2
+ Thailand,2017,Male,7.8
+ The former Yugoslav Republic of Macedonia,2017,Male,9.9
+ Timor-Leste,2017,Male,5.3
+ Togo,2017,Male,6.5
+ Tonga,2017,Male,11.1
+ Trinidad and Tobago,2017,Male,10.8
+ Tunisia,2017,Male,7.9
+ Turkey,2017,Male,8.8
+ Uganda,2017,Male,7.2
+ Ukraine,2017,Male,11.3
+ United Arab Emirates,2017,Male,9.7
+ United Kingdom,2017,Male,13.5
+ United States,2017,Male,13.3
+ Uruguay,2017,Male,8.4
+ Uzbekistan,2017,Male,11.8
+ Venezuela (Bolivarian Republic of),2017,Male,10
+ Viet Nam,2017,Male,8.5
+ Yemen,2017,Male,4.2
+ Zambia,2017,Male,7.4
+ Zimbabwe,2017,Male,8.9
+ Afghanistan,1990,Female,0.4
+ Albania,1990,Female,7.3
+ Algeria,1990,Female,2.2
+ Argentina,1990,Female,7.9
+ Armenia,1990,Female,9.9
+ Australia,1990,Female,11
+ Austria,1990,Female,7.7
+ Bahrain,1990,Female,5.7
+ Bangladesh,1990,Female,1.9
+ Barbados,1990,Female,8
+ Belgium,1990,Female,8.7
+ Belize,1990,Female,8.2
+ Benin,1990,Female,0.8
+ Bolivia (Plurinational State of),1990,Female,5.4
+ Botswana,1990,Female,5.6
+ Brazil,1990,Female,4.2
+ Brunei Darussalam,1990,Female,6.7
+ Bulgaria,1990,Female,8.2
+ Burundi,1990,Female,0.8
+ Cambodia,1990,Female,1.7
+ Cameroon,1990,Female,2.5
+ Canada,1990,Female,10.2
+ Central African Republic,1990,Female,1.1
+ Chile,1990,Female,7.9
+ China,1990,Female,4.8
+ Colombia,1990,Female,5.3
+ Congo,1990,Female,3.1
+ Congo (Democratic Republic of the),1990,Female,1.3
+ Costa Rica,1990,Female,6.7
+ Croatia,1990,Female,7.9
+ Cuba,1990,Female,7.4
+ Cyprus,1990,Female,8
+ Czechia,1990,Female,10.7
+ Côte d'Ivoire,1990,Female,1
+ Denmark,1990,Female,8.4
+ Dominican Republic,1990,Female,5.2
+ Ecuador,1990,Female,6.1
+ Egypt,1990,Female,2.2
+ El Salvador,1990,Female,3.5
+ Estonia,1990,Female,9.3
+ Eswatini (Kingdom of),1990,Female,4.8
+ Fiji,1990,Female,6.4
+ Finland,1990,Female,7.1
+ France,1990,Female,7
+ Gabon,1990,Female,5.2
+ Gambia,1990,Female,0.7
+ Germany,1990,Female,8.3
+ Ghana,1990,Female,3.4
+ Greece,1990,Female,7.2
+ Guatemala,1990,Female,2.7
+ Guyana,1990,Female,6.8
+ Haiti,1990,Female,1.8
+ Honduras,1990,Female,4.2
+ Hong Kong China (SAR),1990,Female,7.7
+ Hungary,1990,Female,8.2
+ Iceland,1990,Female,8.5
+ India,1990,Female,1.7
+ Indonesia,1990,Female,2.5
+ Iran (Islamic Republic of),1990,Female,3.1
+ Iraq,1990,Female,1.9
+ Ireland,1990,Female,9.8
+ Israel,1990,Female,10.8
+ Italy,1990,Female,6.8
+ Jamaica,1990,Female,6.4
+ Japan,1990,Female,9.2
+ Jordan,1990,Female,3.8
+ Kazakhstan,1990,Female,7.6
+ Kenya,1990,Female,2.5
+ Korea (Republic of),1990,Female,7.9
+ Kuwait,1990,Female,5.4
+ Kyrgyzstan,1990,Female,8.1
+ Lao People's Democratic Republic,1990,Female,1.9
+ Latvia,1990,Female,7.4
+ Lesotho,1990,Female,4.4
+ Liberia,1990,Female,1.2
+ Libya,1990,Female,2.7
+ Lithuania,1990,Female,7.9
+ Luxembourg,1990,Female,8.3
+ Malawi,1990,Female,1.6
+ Malaysia,1990,Female,5.7
+ Maldives,1990,Female,3.6
+ Mali,1990,Female,0.4
+ Malta,1990,Female,7.4
+ Mauritania,1990,Female,1.6
+ Mauritius,1990,Female,4.8
+ Mexico,1990,Female,5.1
+ Moldova (Republic of),1990,Female,7.6
+ Mongolia,1990,Female,7.4
+ Morocco,1990,Female,1.4
+ Mozambique,1990,Female,0.4
+ Myanmar,1990,Female,2.2
+ Namibia,1990,Female,5.3
+ Nepal,1990,Female,0.8
+ Netherlands,1990,Female,9.8
+ New Zealand,1990,Female,11.2
+ Nicaragua,1990,Female,3.3
+ Niger,1990,Female,0.3
+ Norway,1990,Female,11.4
+ Pakistan,1990,Female,1
+ Panama,1990,Female,7.3
+ Papua New Guinea,1990,Female,1.6
+ Paraguay,1990,Female,5.4
+ Peru,1990,Female,5.8
+ Philippines,1990,Female,6.5
+ Poland,1990,Female,9.3
+ Portugal,1990,Female,4.8
+ Qatar,1990,Female,5.7
+ Romania,1990,Female,8.4
+ Russian Federation,1990,Female,8.4
+ Rwanda,1990,Female,1.2
+ Saudi Arabia,1990,Female,3.6
+ Senegal,1990,Female,1.5
+ Serbia,1990,Female,7.1
+ Sierra Leone,1990,Female,0.9
+ Singapore,1990,Female,5.5
+ Slovakia,1990,Female,10.2
+ Slovenia,1990,Female,10.6
+ South Africa,1990,Female,5.5
+ Spain,1990,Female,6
+ Sri Lanka,1990,Female,7.4
+ Sudan,1990,Female,0.9
+ Sweden,1990,Female,10.4
+ Switzerland,1990,Female,9.5
+ Syrian Arab Republic,1990,Female,2.9
+ Tajikistan,1990,Female,8.7
+ Tanzania (United Republic of),1990,Female,2.5
+ Thailand,1990,Female,3.5
+ Togo,1990,Female,1.6
+ Tonga,1990,Female,8.1
+ Trinidad and Tobago,1990,Female,7.8
+ Tunisia,1990,Female,2.3
+ Turkey,1990,Female,3.3
+ Uganda,1990,Female,1.9
+ Ukraine,1990,Female,8.7
+ United Arab Emirates,1990,Female,5.7
+ United Kingdom,1990,Female,8.9
+ United States,1990,Female,12.5
+ Uruguay,1990,Female,7.1
+ Venezuela (Bolivarian Republic of),1990,Female,4.5
+ Viet Nam,1990,Female,3.5
+ Yemen,1990,Female,0.1
+ Zambia,1990,Female,3.2
+ Zimbabwe,1990,Female,3.6
+ Afghanistan,1995,Female,0.6
+ Albania,1995,Female,7.3
+ Algeria,1995,Female,2.9
+ Argentina,1995,Female,8.4
+ Armenia,1995,Female,10.3
+ Australia,1995,Female,11.1
+ Austria,1995,Female,8
+ Azerbaijan,1995,Female,9.7
+ Bahrain,1995,Female,6.3
+ Bangladesh,1995,Female,2.6
+ Barbados,1995,Female,8.7
+ Belarus,1995,Female,8.5
+ Belgium,1995,Female,9.5
+ Belize,1995,Female,9.1
+ Benin,1995,Female,1.2
+ Bolivia (Plurinational State of),1995,Female,6.2
+ Botswana,1995,Female,6.7
+ Brazil,1995,Female,5.1
+ Brunei Darussalam,1995,Female,7.6
+ Bulgaria,1995,Female,8.9
+ Burundi,1995,Female,1.1
+ Cambodia,1995,Female,2
+ Cameroon,1995,Female,3.1
+ Canada,1995,Female,10.5
+ Central African Republic,1995,Female,1.4
+ Chile,1995,Female,8.3
+ China,1995,Female,5.5
+ Colombia,1995,Female,6
+ Congo,1995,Female,4
+ Congo (Democratic Republic of the),1995,Female,1.8
+ Costa Rica,1995,Female,7.1
+ Croatia,1995,Female,8.6
+ Cuba,1995,Female,8.1
+ Cyprus,1995,Female,8.5
+ Czechia,1995,Female,11.9
+ Côte d'Ivoire,1995,Female,1.4
+ Denmark,1995,Female,9.4
+ Dominican Republic,1995,Female,6.1
+ Ecuador,1995,Female,6.5
+ Egypt,1995,Female,2.8
+ El Salvador,1995,Female,4.3
+ Estonia,1995,Female,10.5
+ Eswatini (Kingdom of),1995,Female,4.5
+ Fiji,1995,Female,7.5
+ Finland,1995,Female,8.4
+ France,1995,Female,8.3
+ Gabon,1995,Female,5.3
+ Gambia,1995,Female,1.1
+ Germany,1995,Female,9
+ Ghana,1995,Female,4.2
+ Greece,1995,Female,7.6
+ Guatemala,1995,Female,3
+ Guyana,1995,Female,7.4
+ Haiti,1995,Female,2.1
+ Honduras,1995,Female,4.6
+ Hong Kong China (SAR),1995,Female,8.1
+ Hungary,1995,Female,9.5
+ Iceland,1995,Female,9.1
+ India,1995,Female,1.9
+ Indonesia,1995,Female,4.1
+ Iran (Islamic Republic of),1995,Female,4.1
+ Iraq,1995,Female,2.8
+ Ireland,1995,Female,10.4
+ Israel,1995,Female,11.4
+ Italy,1995,Female,7.5
+ Jamaica,1995,Female,7.6
+ Japan,1995,Female,9.9
+ Jordan,1995,Female,6.4
+ Kazakhstan,1995,Female,8.9
+ Kenya,1995,Female,3.4
+ Korea (Republic of),1995,Female,8.9
+ Kuwait,1995,Female,5.4
+ Kyrgyzstan,1995,Female,8.8
+ Lao People's Democratic Republic,1995,Female,2.5
+ Latvia,1995,Female,8.7
+ Lesotho,1995,Female,4.9
+ Liberia,1995,Female,1.5
+ Libya,1995,Female,3.7
+ Lithuania,1995,Female,9.2
+ Luxembourg,1995,Female,9.2
+ Malawi,1995,Female,1.9
+ Malaysia,1995,Female,6.9
+ Maldives,1995,Female,3.2
+ Mali,1995,Female,0.5
+ Malta,1995,Female,6.7
+ Mauritania,1995,Female,1.9
+ Mauritius,1995,Female,5.5
+ Mexico,1995,Female,5.7
+ Moldova (Republic of),1995,Female,8.3
+ Mongolia,1995,Female,7.5
+ Morocco,1995,Female,1.8
+ Mozambique,1995,Female,1
+ Myanmar,1995,Female,2.6
+ Namibia,1995,Female,5.5
+ Nepal,1995,Female,1
+ Netherlands,1995,Female,10.2
+ New Zealand,1995,Female,11.4
+ Nicaragua,1995,Female,4
+ Niger,1995,Female,0.4
+ Norway,1995,Female,11.7
+ Pakistan,1995,Female,1.3
+ Panama,1995,Female,7.9
+ Papua New Guinea,1995,Female,1.9
+ Paraguay,1995,Female,5.9
+ Peru,1995,Female,6.6
+ Philippines,1995,Female,7.1
+ Poland,1995,Female,9.5
+ Portugal,1995,Female,5.5
+ Qatar,1995,Female,7.2
+ Romania,1995,Female,8.8
+ Russian Federation,1995,Female,9.4
+ Rwanda,1995,Female,1.5
+ Saudi Arabia,1995,Female,4.4
+ Senegal,1995,Female,1.4
+ Serbia,1995,Female,8
+ Sierra Leone,1995,Female,1.2
+ Singapore,1995,Female,6.8
+ Slovakia,1995,Female,10.5
+ Slovenia,1995,Female,11
+ South Africa,1995,Female,6.9
+ Spain,1995,Female,7
+ Sri Lanka,1995,Female,8.8
+ Sudan,1995,Female,1.3
+ Sweden,1995,Female,10.9
+ Switzerland,1995,Female,9.9
+ Syrian Arab Republic,1995,Female,3.5
+ Tajikistan,1995,Female,9.5
+ Tanzania (United Republic of),1995,Female,3.1
+ Thailand,1995,Female,4.7
+ Togo,1995,Female,2
+ Tonga,1995,Female,9
+ Trinidad and Tobago,1995,Female,8.4
+ Tunisia,1995,Female,3
+ Turkey,1995,Female,3.9
+ Turkmenistan,1995,Female,10.5
+ Uganda,1995,Female,2.4
+ Ukraine,1995,Female,9.7
+ United Arab Emirates,1995,Female,7.4
+ United Kingdom,1995,Female,9.2
+ United States,1995,Female,12.7
+ Uruguay,1995,Female,7.6
+ Venezuela (Bolivarian Republic of),1995,Female,5.5
+ Viet Nam,1995,Female,4.1
+ Yemen,1995,Female,0.2
+ Zambia,1995,Female,5.8
+ Zimbabwe,1995,Female,4.7
+ Afghanistan,2000,Female,0.8
+ Albania,2000,Female,7.9
+ Algeria,2000,Female,3.8
+ Argentina,2000,Female,8.7
+ Armenia,2000,Female,10.7
+ Australia,2000,Female,11.2
+ Austria,2000,Female,8.1
+ Azerbaijan,2000,Female,10
+ Bahamas,2000,Female,11.1
+ Bahrain,2000,Female,6.9
+ Bangladesh,2000,Female,3.5
+ Barbados,2000,Female,9.1
+ Belarus,2000,Female,8.8
+ Belgium,2000,Female,10
+ Belize,2000,Female,10.1
+ Benin,2000,Female,1.5
+ Bolivia (Plurinational State of),2000,Female,6.3
+ Botswana,2000,Female,7.6
+ Brazil,2000,Female,6
+ Brunei Darussalam,2000,Female,8
+ Bulgaria,2000,Female,9.3
+ Burundi,2000,Female,1.3
+ Cambodia,2000,Female,2.3
+ Cameroon,2000,Female,3.6
+ Canada,2000,Female,10.9
+ Central African Republic,2000,Female,1.7
+ Chile,2000,Female,8.7
+ China,2000,Female,6.1
+ Colombia,2000,Female,6.4
+ Congo,2000,Female,4.8
+ Congo (Democratic Republic of the),2000,Female,2
+ Costa Rica,2000,Female,7.5
+ Croatia,2000,Female,9
+ Cuba,2000,Female,9
+ Cyprus,2000,Female,9.3
+ Czechia,2000,Female,12.7
+ Côte d'Ivoire,2000,Female,2.1
+ Denmark,2000,Female,11.2
+ Dominican Republic,2000,Female,6.6
+ Ecuador,2000,Female,6.6
+ Egypt,2000,Female,3.5
+ El Salvador,2000,Female,5.4
+ Estonia,2000,Female,12.1
+ Eswatini (Kingdom of),2000,Female,4.2
+ Ethiopia,2000,Female,0.9
+ Fiji,2000,Female,8.2
+ Finland,2000,Female,9.2
+ France,2000,Female,9.7
+ Gabon,2000,Female,5.3
+ Gambia,2000,Female,1.2
+ Georgia,2000,Female,11.6
+ Germany,2000,Female,9.7
+ Ghana,2000,Female,4.8
+ Greece,2000,Female,8
+ Guatemala,2000,Female,3.3
+ Guinea,2000,Female,0.8
+ Guyana,2000,Female,8.1
+ Haiti,2000,Female,2.6
+ Honduras,2000,Female,4.8
+ Hong Kong China (SAR),2000,Female,8.3
+ Hungary,2000,Female,9.8
+ Iceland,2000,Female,9.6
+ India,2000,Female,3.2
+ Indonesia,2000,Female,5.7
+ Iran (Islamic Republic of),2000,Female,5.3
+ Iraq,2000,Female,3.7
+ Ireland,2000,Female,10.9
+ Israel,2000,Female,12
+ Italy,2000,Female,8.2
+ Jamaica,2000,Female,8.9
+ Japan,2000,Female,10.5
+ Jordan,2000,Female,9
+ Kazakhstan,2000,Female,10.2
+ Kenya,2000,Female,4.1
+ Korea (Republic of),2000,Female,9.6
+ Kuwait,2000,Female,6.1
+ Kyrgyzstan,2000,Female,9.7
+ Lao People's Democratic Republic,2000,Female,2.9
+ Latvia,2000,Female,10.5
+ Lesotho,2000,Female,5.4
+ Liberia,2000,Female,1.8
+ Libya,2000,Female,4.9
+ Lithuania,2000,Female,10.6
+ Luxembourg,2000,Female,10
+ Malawi,2000,Female,2.1
+ Malaysia,2000,Female,8
+ Maldives,2000,Female,2.8
+ Mali,2000,Female,0.6
+ Malta,2000,Female,5.9
+ Mauritania,2000,Female,2.1
+ Mauritius,2000,Female,5.5
+ Mexico,2000,Female,6.3
+ Moldova (Republic of),2000,Female,8.8
+ Mongolia,2000,Female,8.7
+ Morocco,2000,Female,2.3
+ Mozambique,2000,Female,1.6
+ Myanmar,2000,Female,3.1
+ Namibia,2000,Female,5.5
+ Nepal,2000,Female,1.2
+ Netherlands,2000,Female,10.6
+ New Zealand,2000,Female,11.9
+ Nicaragua,2000,Female,4.9
+ Niger,2000,Female,0.5
+ Norway,2000,Female,12
+ Oman,2000,Female,4.5
+ Pakistan,2000,Female,1.4
+ Panama,2000,Female,8
+ Papua New Guinea,2000,Female,2.3
+ Paraguay,2000,Female,6.5
+ Peru,2000,Female,7.6
+ Philippines,2000,Female,7.6
+ Poland,2000,Female,10.2
+ Portugal,2000,Female,6.6
+ Qatar,2000,Female,8.7
+ Romania,2000,Female,9.2
+ Russian Federation,2000,Female,10.9
+ Rwanda,2000,Female,1.9
+ Saint Lucia,2000,Female,7.1
+ Sao Tome and Principe,2000,Female,3.3
+ Saudi Arabia,2000,Female,5.1
+ Senegal,2000,Female,1.2
+ Serbia,2000,Female,8.7
+ Sierra Leone,2000,Female,1.5
+ Singapore,2000,Female,8.3
+ Slovakia,2000,Female,10.9
+ Slovenia,2000,Female,11.3
+ South Africa,2000,Female,7.4
+ Spain,2000,Female,8.1
+ Sri Lanka,2000,Female,10.4
+ Sudan,2000,Female,1.8
+ Sweden,2000,Female,11.5
+ Switzerland,2000,Female,10.3
+ Syrian Arab Republic,2000,Female,4.1
+ Tajikistan,2000,Female,10.2
+ Tanzania (United Republic of),2000,Female,3.5
+ Thailand,2000,Female,5.9
+ Timor-Leste,2000,Female,2.2
+ Togo,2000,Female,2.5
+ Tonga,2000,Female,8.9
+ Trinidad and Tobago,2000,Female,9.1
+ Tunisia,2000,Female,3.7
+ Turkey,2000,Female,4.6
+ Uganda,2000,Female,2.9
+ Ukraine,2000,Female,10.3
+ United Arab Emirates,2000,Female,8.7
+ United Kingdom,2000,Female,10.1
+ United States,2000,Female,12.7
+ Uruguay,2000,Female,8.2
+ Venezuela (Bolivarian Republic of),2000,Female,6.5
+ Viet Nam,2000,Female,5
+ Yemen,2000,Female,0.4
+ Zambia,2000,Female,4.8
+ Zimbabwe,2000,Female,5.6
+ Afghanistan,2005,Female,1
+ Albania,2005,Female,8.3
+ Algeria,2005,Female,4.8
+ Argentina,2005,Female,9.7
+ Armenia,2005,Female,10.7
+ Australia,2005,Female,11.6
+ Austria,2005,Female,8.6
+ Azerbaijan,2005,Female,10.1
+ Bahamas,2005,Female,11.6
+ Bahrain,2005,Female,7.9
+ Bangladesh,2005,Female,3.8
+ Barbados,2005,Female,9.3
+ Belarus,2005,Female,9.2
+ Belgium,2005,Female,10.4
+ Belize,2005,Female,10.3
+ Benin,2005,Female,1.8
+ Bolivia (Plurinational State of),2005,Female,6.3
+ Bosnia and Herzegovina,2005,Female,6.4
+ Botswana,2005,Female,8.2
+ Brazil,2005,Female,6.2
+ Brunei Darussalam,2005,Female,8.1
+ Bulgaria,2005,Female,9.8
+ Burkina Faso,2005,Female,0.9
+ Burundi,2005,Female,1.7
+ Cambodia,2005,Female,2.6
+ Cameroon,2005,Female,3.9
+ Canada,2005,Female,12.2
+ Central African Republic,2005,Female,2
+ Chad,2005,Female,0.7
+ Chile,2005,Female,9.5
+ China,2005,Female,6.3
+ Colombia,2005,Female,7.1
+ Congo,2005,Female,4.9
+ Congo (Democratic Republic of the),2005,Female,2.7
+ Costa Rica,2005,Female,7.9
+ Croatia,2005,Female,9.6
+ Cuba,2005,Female,9.8
+ Cyprus,2005,Female,10.3
+ Czechia,2005,Female,12.8
+ Côte d'Ivoire,2005,Female,2.6
+ Denmark,2005,Female,12.9
+ Dominican Republic,2005,Female,7.3
+ Ecuador,2005,Female,6.9
+ Egypt,2005,Female,4.4
+ El Salvador,2005,Female,5.8
+ Estonia,2005,Female,12.4
+ Eswatini (Kingdom of),2005,Female,5
+ Ethiopia,2005,Female,1.2
+ Fiji,2005,Female,9.1
+ Finland,2005,Female,12.1
+ France,2005,Female,10.1
+ Gabon,2005,Female,6
+ Gambia,2005,Female,1.6
+ Georgia,2005,Female,11.9
+ Germany,2005,Female,12.3
+ Ghana,2005,Female,5.2
+ Greece,2005,Female,9.4
+ Guatemala,2005,Female,3.2
+ Guinea,2005,Female,0.9
+ Guyana,2005,Female,8.5
+ Haiti,2005,Female,2.9
+ Honduras,2005,Female,4.9
+ Hong Kong China (SAR),2005,Female,10.2
+ Hungary,2005,Female,10.3
+ Iceland,2005,Female,10.2
+ India,2005,Female,2.9
+ Indonesia,2005,Female,6.7
+ Iran (Islamic Republic of),2005,Female,6.2
+ Iraq,2005,Female,4.5
+ Ireland,2005,Female,10.9
+ Israel,2005,Female,12.3
+ Italy,2005,Female,8.8
+ Jamaica,2005,Female,9.4
+ Japan,2005,Female,11
+ Jordan,2005,Female,9.1
+ Kazakhstan,2005,Female,11.8
+ Kenya,2005,Female,4.7
+ Korea (Republic of),2005,Female,10.5
+ Kuwait,2005,Female,6.5
+ Kyrgyzstan,2005,Female,10.1
+ Lao People's Democratic Republic,2005,Female,3.3
+ Latvia,2005,Female,12.5
+ Lebanon,2005,Female,7.1
+ Lesotho,2005,Female,5.8
+ Liberia,2005,Female,2.1
+ Libya,2005,Female,6.3
+ Lithuania,2005,Female,11.7
+ Luxembourg,2005,Female,11
+ Malawi,2005,Female,2.5
+ Malaysia,2005,Female,6.8
+ Maldives,2005,Female,3.2
+ Mali,2005,Female,0.8
+ Malta,2005,Female,9.3
+ Mauritania,2005,Female,2.3
+ Mauritius,2005,Female,6.7
+ Mexico,2005,Female,7.2
+ Moldova (Republic of),2005,Female,10.2
+ Mongolia,2005,Female,9.4
+ Montenegro,2005,Female,9.8
+ Morocco,2005,Female,2.8
+ Mozambique,2005,Female,2.1
+ Myanmar,2005,Female,3.6
+ Namibia,2005,Female,6
+ Nepal,2005,Female,1.7
+ Netherlands,2005,Female,11.4
+ New Zealand,2005,Female,12.1
+ Nicaragua,2005,Female,5.5
+ Niger,2005,Female,0.7
+ Nigeria,2005,Female,4.3
+ Norway,2005,Female,12.4
+ Oman,2005,Female,6.1
+ Pakistan,2005,Female,1.5
+ Palestine State of,2005,Female,6.8
+ Panama,2005,Female,8.8
+ Papua New Guinea,2005,Female,2.7
+ Paraguay,2005,Female,7.1
+ Peru,2005,Female,8.3
+ Philippines,2005,Female,8.4
+ Poland,2005,Female,10.9
+ Portugal,2005,Female,7.4
+ Qatar,2005,Female,9.5
+ Romania,2005,Female,9.5
+ Russian Federation,2005,Female,11.2
+ Rwanda,2005,Female,2.5
+ Saint Lucia,2005,Female,7.5
+ Sao Tome and Principe,2005,Female,3.5
+ Saudi Arabia,2005,Female,6.8
+ Senegal,2005,Female,1
+ Serbia,2005,Female,9.2
+ Sierra Leone,2005,Female,1.8
+ Singapore,2005,Female,9.9
+ Slovakia,2005,Female,10.8
+ Slovenia,2005,Female,11.4
+ South Africa,2005,Female,8.6
+ Spain,2005,Female,8.6
+ Sri Lanka,2005,Female,10.1
+ Sudan,2005,Female,2.3
+ Suriname,2005,Female,7.5
+ Sweden,2005,Female,12.6
+ Switzerland,2005,Female,12.9
+ Syrian Arab Republic,2005,Female,5
+ Tajikistan,2005,Female,10
+ Tanzania (United Republic of),2005,Female,4
+ Thailand,2005,Female,6.4
+ The former Yugoslav Republic of Macedonia,2005,Female,1
+ Timor-Leste,2005,Female,2.6
+ Togo,2005,Female,2.6
+ Tonga,2005,Female,9.9
+ Trinidad and Tobago,2005,Female,10.1
+ Tunisia,2005,Female,4.6
+ Turkey,2005,Female,5
+ Uganda,2005,Female,3.5
+ Ukraine,2005,Female,11
+ United Arab Emirates,2005,Female,10.1
+ United Kingdom,2005,Female,12
+ United States,2005,Female,12.8
+ Uruguay,2005,Female,8.2
+ Venezuela (Bolivarian Republic of),2005,Female,7.6
+ Viet Nam,2005,Female,6
+ Yemen,2005,Female,0.8
+ Zambia,2005,Female,5.4
+ Zimbabwe,2005,Female,6.4
+ Afghanistan,2010,Female,1.2
+ Albania,2010,Female,9
+ Algeria,2010,Female,5.8
+ Andorra,2010,Female,9.4
+ Argentina,2010,Female,9.5
+ Armenia,2010,Female,11.2
+ Australia,2010,Female,12.4
+ Austria,2010,Female,11.4
+ Azerbaijan,2010,Female,10.4
+ Bahamas,2010,Female,12
+ Bahrain,2010,Female,8.4
+ Bangladesh,2010,Female,4.5
+ Barbados,2010,Female,9.5
+ Belarus,2010,Female,11.9
+ Belgium,2010,Female,10.9
+ Belize,2010,Female,10.5
+ Benin,2010,Female,2.1
+ Bhutan,2010,Female,1.6
+ Bolivia (Plurinational State of),2010,Female,7.2
+ Bosnia and Herzegovina,2010,Female,6.1
+ Botswana,2010,Female,8.7
+ Brazil,2010,Female,7
+ Brunei Darussalam,2010,Female,8.5
+ Bulgaria,2010,Female,10.7
+ Burkina Faso,2010,Female,1
+ Burundi,2010,Female,2.2
+ Cambodia,2010,Female,3.1
+ Cameroon,2010,Female,3.9
+ Canada,2010,Female,12.6
+ Central African Republic,2010,Female,2.4
+ Chad,2010,Female,1
+ Chile,2010,Female,9.7
+ China,2010,Female,6.8
+ Colombia,2010,Female,7.5
+ Comoros,2010,Female,3.3
+ Congo,2010,Female,4.9
+ Congo (Democratic Republic of the),2010,Female,3.5
+ Costa Rica,2010,Female,8.3
+ Croatia,2010,Female,10.4
+ Cuba,2010,Female,10.7
+ Cyprus,2010,Female,11.2
+ Czechia,2010,Female,12.1
+ Côte d'Ivoire,2010,Female,3.1
+ Denmark,2010,Female,12.8
+ Dominican Republic,2010,Female,7.4
+ Ecuador,2010,Female,7.9
+ Egypt,2010,Female,5.4
+ El Salvador,2010,Female,6.8
+ Equatorial Guinea,2010,Female,4
+ Estonia,2010,Female,12.7
+ Eswatini (Kingdom of),2010,Female,5.4
+ Ethiopia,2010,Female,1.4
+ Fiji,2010,Female,9.7
+ Finland,2010,Female,12.5
+ France,2010,Female,10.7
+ Gabon,2010,Female,6.4
+ Gambia,2010,Female,2
+ Georgia,2010,Female,12
+ Germany,2010,Female,13
+ Ghana,2010,Female,5.7
+ Greece,2010,Female,10
+ Guatemala,2010,Female,3.8
+ Guinea,2010,Female,0.9
+ Guyana,2010,Female,8.9
+ Haiti,2010,Female,3.1
+ Honduras,2010,Female,5.4
+ Hong Kong China (SAR),2010,Female,11
+ Hungary,2010,Female,12
+ Iceland,2010,Female,10.8
+ India,2010,Female,3.6
+ Indonesia,2010,Female,6.9
+ Iran (Islamic Republic of),2010,Female,8.8
+ Iraq,2010,Female,5.1
+ Ireland,2010,Female,11
+ Israel,2010,Female,12.6
+ Italy,2010,Female,9.4
+ Jamaica,2010,Female,9.5
+ Japan,2010,Female,11.3
+ Jordan,2010,Female,9.3
+ Kazakhstan,2010,Female,11.3
+ Kenya,2010,Female,5.8
+ Korea (Republic of),2010,Female,10.9
+ Kuwait,2010,Female,7.2
+ Kyrgyzstan,2010,Female,10.6
+ Lao People's Democratic Republic,2010,Female,3.8
+ Latvia,2010,Female,12.1
+ Lebanon,2010,Female,7.6
+ Lesotho,2010,Female,6.5
+ Liberia,2010,Female,2.6
+ Libya,2010,Female,7.7
+ Lithuania,2010,Female,12.4
+ Luxembourg,2010,Female,11.4
+ Madagascar,2010,Female,6.6
+ Malawi,2010,Female,3.4
+ Malaysia,2010,Female,9.4
+ Maldives,2010,Female,4.8
+ Mali,2010,Female,1.5
+ Malta,2010,Female,9.9
+ Mauritania,2010,Female,2.7
+ Mauritius,2010,Female,7.7
+ Mexico,2010,Female,7.8
+ Moldova (Republic of),2010,Female,11
+ Mongolia,2010,Female,10.1
+ Montenegro,2010,Female,10.4
+ Morocco,2010,Female,3.2
+ Mozambique,2010,Female,2.3
+ Myanmar,2010,Female,4.3
+ Namibia,2010,Female,6.3
+ Nepal,2010,Female,2.3
+ Netherlands,2010,Female,11.7
+ New Zealand,2010,Female,12.4
+ Nicaragua,2010,Female,6.2
+ Niger,2010,Female,0.8
+ Nigeria,2010,Female,4.3
+ Norway,2010,Female,12.8
+ Oman,2010,Female,7.5
+ Pakistan,2010,Female,3
+ Palestine State of,2010,Female,7.9
+ Panama,2010,Female,9.5
+ Papua New Guinea,2010,Female,3.1
+ Paraguay,2010,Female,7.5
+ Peru,2010,Female,7.8
+ Philippines,2010,Female,9
+ Poland,2010,Female,12.2
+ Portugal,2010,Female,8.1
+ Qatar,2010,Female,8.9
+ Romania,2010,Female,10.2
+ Russian Federation,2010,Female,11.4
+ Rwanda,2010,Female,3.7
+ Saint Lucia,2010,Female,9.4
+ Sao Tome and Principe,2010,Female,4.2
+ Saudi Arabia,2010,Female,8.2
+ Senegal,2010,Female,1.6
+ Serbia,2010,Female,9.8
+ Sierra Leone,2010,Female,2.2
+ Singapore,2010,Female,10.8
+ Slovakia,2010,Female,11.6
+ Slovenia,2010,Female,11.9
+ South Africa,2010,Female,9.5
+ South Sudan,2010,Female,4
+ Spain,2010,Female,9.1
+ Sri Lanka,2010,Female,10
+ Sudan,2010,Female,2.5
+ Suriname,2010,Female,8.5
+ Sweden,2010,Female,12.5
+ Switzerland,2010,Female,13.8
+ Syrian Arab Republic,2010,Female,5.7
+ Tajikistan,2010,Female,10.8
+ Tanzania (United Republic of),2010,Female,4.6
+ Thailand,2010,Female,7.1
+ The former Yugoslav Republic of Macedonia,2010,Female,1
+ Timor-Leste,2010,Female,3.6
+ Togo,2010,Female,2.7
+ Tonga,2010,Female,10.8
+ Trinidad and Tobago,2010,Female,10.7
+ Tunisia,2010,Female,5.7
+ Turkey,2010,Female,6.3
+ Uganda,2010,Female,4
+ Ukraine,2010,Female,11.3
+ United Arab Emirates,2010,Female,10.2
+ United Kingdom,2010,Female,13.1
+ United States,2010,Female,13.3
+ Uruguay,2010,Female,8.5
+ Venezuela (Bolivarian Republic of),2010,Female,9.2
+ Viet Nam,2010,Female,7
+ Yemen,2010,Female,1.3
+ Zambia,2010,Female,5.8
+ Zimbabwe,2010,Female,7
+ Afghanistan,2011,Female,1.2
+ Albania,2011,Female,9.1
+ Algeria,2011,Female,5.8
+ Andorra,2011,Female,9.5
+ Argentina,2011,Female,9.9
+ Armenia,2011,Female,11.3
+ Australia,2011,Female,12.5
+ Austria,2011,Female,11.4
+ Azerbaijan,2011,Female,10.4
+ Bahamas,2011,Female,11.5
+ Bahrain,2011,Female,8.5
+ Bangladesh,2011,Female,4.8
+ Barbados,2011,Female,10
+ Belarus,2011,Female,11.9
+ Belgium,2011,Female,11
+ Belize,2011,Female,10.5
+ Benin,2011,Female,2.2
+ Bhutan,2011,Female,1.6
+ Bolivia (Plurinational State of),2011,Female,7.3
+ Bosnia and Herzegovina,2011,Female,6.3
+ Botswana,2011,Female,8.8
+ Brazil,2011,Female,7.2
+ Brunei Darussalam,2011,Female,8.6
+ Bulgaria,2011,Female,10.7
+ Burkina Faso,2011,Female,1
+ Burundi,2011,Female,2.4
+ Cambodia,2011,Female,3.2
+ Cameroon,2011,Female,4
+ Canada,2011,Female,12.8
+ Central African Republic,2011,Female,2.5
+ Chad,2011,Female,1
+ Chile,2011,Female,9.7
+ China,2011,Female,6.9
+ Colombia,2011,Female,7.6
+ Comoros,2011,Female,3.5
+ Congo,2011,Female,5
+ Congo (Democratic Republic of the),2011,Female,3.6
+ Costa Rica,2011,Female,8.5
+ Croatia,2011,Female,10.5
+ Cuba,2011,Female,10.9
+ Cyprus,2011,Female,11.4
+ Czechia,2011,Female,12.2
+ Côte d'Ivoire,2011,Female,3.3
+ Denmark,2011,Female,12.8
+ Dominican Republic,2011,Female,7.6
+ Ecuador,2011,Female,8
+ Egypt,2011,Female,5.6
+ El Salvador,2011,Female,6
+ Equatorial Guinea,2011,Female,4
+ Estonia,2011,Female,12.8
+ Eswatini (Kingdom of),2011,Female,5.5
+ Ethiopia,2011,Female,1.4
+ Fiji,2011,Female,10
+ Finland,2011,Female,12.5
+ France,2011,Female,10.8
+ Gabon,2011,Female,6.5
+ Gambia,2011,Female,2.1
+ Georgia,2011,Female,12.1
+ Germany,2011,Female,13.1
+ Ghana,2011,Female,5.7
+ Greece,2011,Female,9.9
+ Guatemala,2011,Female,4
+ Guinea,2011,Female,1.1
+ Guyana,2011,Female,8.8
+ Haiti,2011,Female,3.3
+ Honduras,2011,Female,5.6
+ Hong Kong China (SAR),2011,Female,11.2
+ Hungary,2011,Female,11.6
+ Iceland,2011,Female,11.2
+ India,2011,Female,3.9
+ Indonesia,2011,Female,7
+ Iran (Islamic Republic of),2011,Female,9.1
+ Iraq,2011,Female,5.3
+ Ireland,2011,Female,11
+ Israel,2011,Female,12.7
+ Italy,2011,Female,9.5
+ Jamaica,2011,Female,9.5
+ Japan,2011,Female,11.6
+ Jordan,2011,Female,9.3
+ Kazakhstan,2011,Female,11.4
+ Kenya,2011,Female,5.8
+ Korea (Republic of),2011,Female,11
+ Kuwait,2011,Female,7.2
+ Kyrgyzstan,2011,Female,10.7
+ Lao People's Democratic Republic,2011,Female,4
+ Latvia,2011,Female,12
+ Lebanon,2011,Female,7.9
+ Lesotho,2011,Female,6.6
+ Liberia,2011,Female,2.7
+ Libya,2011,Female,7.7
+ Lithuania,2011,Female,12.5
+ Luxembourg,2011,Female,11.4
+ Madagascar,2011,Female,6.7
+ Malawi,2011,Female,3.5
+ Malaysia,2011,Female,9.5
+ Maldives,2011,Female,5.1
+ Mali,2011,Female,1.5
+ Malta,2011,Female,10
+ Marshall Islands,2011,Female,10.7
+ Mauritania,2011,Female,2.9
+ Mauritius,2011,Female,7.9
+ Mexico,2011,Female,8
+ Moldova (Republic of),2011,Female,11.1
+ Mongolia,2011,Female,10.2
+ Montenegro,2011,Female,10.5
+ Morocco,2011,Female,3.3
+ Mozambique,2011,Female,2.4
+ Myanmar,2011,Female,4.5
+ Namibia,2011,Female,6.5
+ Nepal,2011,Female,2.2
+ Netherlands,2011,Female,11.7
+ New Zealand,2011,Female,12.5
+ Nicaragua,2011,Female,6.3
+ Niger,2011,Female,0.9
+ Nigeria,2011,Female,4.5
+ Norway,2011,Female,12.8
+ Oman,2011,Female,8.1
+ Pakistan,2011,Female,3.1
+ Palestine State of,2011,Female,8.2
+ Panama,2011,Female,9.7
+ Papua New Guinea,2011,Female,3.3
+ Paraguay,2011,Female,7.7
+ Peru,2011,Female,8.4
+ Philippines,2011,Female,9.3
+ Poland,2011,Female,12.3
+ Portugal,2011,Female,8.3
+ Qatar,2011,Female,10
+ Romania,2011,Female,10.4
+ Russian Federation,2011,Female,11.5
+ Rwanda,2011,Female,3.5
+ Saint Lucia,2011,Female,9.4
+ Sao Tome and Principe,2011,Female,4.4
+ Saudi Arabia,2011,Female,8.4
+ Senegal,2011,Female,1.8
+ Serbia,2011,Female,10.1
+ Sierra Leone,2011,Female,2.2
+ Singapore,2011,Female,10.8
+ Slovakia,2011,Female,12.3
+ Slovenia,2011,Female,12.1
+ South Africa,2011,Female,9.5
+ South Sudan,2011,Female,4
+ Spain,2011,Female,9.3
+ Sri Lanka,2011,Female,10.1
+ Sudan,2011,Female,2.6
+ Suriname,2011,Female,8.7
+ Sweden,2011,Female,12.5
+ Switzerland,2011,Female,13.8
+ Syrian Arab Republic,2011,Female,5.7
+ Tajikistan,2011,Female,10.8
+ Tanzania (United Republic of),2011,Female,4.8
+ Thailand,2011,Female,7.1
+ The former Yugoslav Republic of Macedonia,2011,Female,8.7
+ Timor-Leste,2011,Female,3.6
+ Togo,2011,Female,2.8
+ Tonga,2011,Female,11
+ Trinidad and Tobago,2011,Female,10.7
+ Tunisia,2011,Female,5.9
+ Turkey,2011,Female,6.6
+ Uganda,2011,Female,4.1
+ Ukraine,2011,Female,11.3
+ United Arab Emirates,2011,Female,10.3
+ United Kingdom,2011,Female,12.9
+ United States,2011,Female,13.3
+ Uruguay,2011,Female,8.7
+ Venezuela (Bolivarian Republic of),2011,Female,9.7
+ Viet Nam,2011,Female,7.2
+ Yemen,2011,Female,1.5
+ Zambia,2011,Female,6
+ Zimbabwe,2011,Female,7.2
+ Afghanistan,2012,Female,1.3
+ Albania,2012,Female,9.2
+ Algeria,2012,Female,5.8
+ Andorra,2012,Female,9.5
+ Argentina,2012,Female,9.9
+ Armenia,2012,Female,11.4
+ Australia,2012,Female,12.6
+ Austria,2012,Female,11.4
+ Azerbaijan,2012,Female,10.5
+ Bahamas,2012,Female,11.5
+ Bahrain,2012,Female,8.6
+ Bangladesh,2012,Female,4.9
+ Barbados,2012,Female,10.6
+ Belarus,2012,Female,11.9
+ Belgium,2012,Female,11
+ Belize,2012,Female,10.5
+ Benin,2012,Female,2.4
+ Bhutan,2012,Female,1.6
+ Bolivia (Plurinational State of),2012,Female,7.5
+ Bosnia and Herzegovina,2012,Female,6.8
+ Botswana,2012,Female,8.9
+ Brazil,2012,Female,7.5
+ Brunei Darussalam,2012,Female,8.7
+ Bulgaria,2012,Female,10.8
+ Burkina Faso,2012,Female,1
+ Burundi,2012,Female,2.5
+ Cambodia,2012,Female,3.3
+ Cameroon,2012,Female,4.2
+ Canada,2012,Female,12.9
+ Central African Republic,2012,Female,2.6
+ Chad,2012,Female,1.1
+ Chile,2012,Female,9.7
+ China,2012,Female,7.1
+ Colombia,2012,Female,7.7
+ Comoros,2012,Female,3.5
+ Congo,2012,Female,5.1
+ Congo (Democratic Republic of the),2012,Female,3.8
+ Costa Rica,2012,Female,8.5
+ Croatia,2012,Female,10.7
+ Cuba,2012,Female,11.1
+ Cyprus,2012,Female,11.6
+ Czechia,2012,Female,12.2
+ Côte d'Ivoire,2012,Female,3.4
+ Denmark,2012,Female,12.9
+ Dominican Republic,2012,Female,7.7
+ Ecuador,2012,Female,8.2
+ Egypt,2012,Female,5.8
+ El Salvador,2012,Female,6.1
+ Equatorial Guinea,2012,Female,4
+ Estonia,2012,Female,12.8
+ Eswatini (Kingdom of),2012,Female,5.7
+ Ethiopia,2012,Female,1.4
+ Fiji,2012,Female,10.3
+ Finland,2012,Female,12.3
+ France,2012,Female,10.9
+ Gabon,2012,Female,6.9
+ Gambia,2012,Female,2.3
+ Georgia,2012,Female,12.4
+ Germany,2012,Female,13.2
+ Ghana,2012,Female,5.8
+ Greece,2012,Female,10.1
+ Guatemala,2012,Female,4.2
+ Guinea,2012,Female,1.4
+ Guyana,2012,Female,8.7
+ Haiti,2012,Female,3.5
+ Honduras,2012,Female,5.6
+ Hong Kong China (SAR),2012,Female,11.2
+ Hungary,2012,Female,11.7
+ Iceland,2012,Female,11.7
+ India,2012,Female,4.2
+ Indonesia,2012,Female,7.1
+ Iran (Islamic Republic of),2012,Female,9.3
+ Iraq,2012,Female,5.3
+ Ireland,2012,Female,11.5
+ Israel,2012,Female,12.8
+ Italy,2012,Female,9.7
+ Jamaica,2012,Female,9.6
+ Japan,2012,Female,12
+ Jordan,2012,Female,9.2
+ Kazakhstan,2012,Female,11.5
+ Kenya,2012,Female,5.8
+ Korea (Republic of),2012,Female,11.1
+ Kuwait,2012,Female,7.3
+ Kyrgyzstan,2012,Female,10.8
+ Lao People's Democratic Republic,2012,Female,4.1
+ Latvia,2012,Female,11.9
+ Lebanon,2012,Female,8.3
+ Lesotho,2012,Female,6.7
+ Liberia,2012,Female,2.8
+ Libya,2012,Female,7.7
+ Lithuania,2012,Female,12.5
+ Luxembourg,2012,Female,11.4
+ Madagascar,2012,Female,6.7
+ Malawi,2012,Female,3.6
+ Malaysia,2012,Female,9.6
+ Maldives,2012,Female,5.4
+ Mali,2012,Female,1.6
+ Malta,2012,Female,10.4
+ Mauritania,2012,Female,3
+ Mauritius,2012,Female,8.2
+ Mexico,2012,Female,8.3
+ Moldova (Republic of),2012,Female,11.3
+ Mongolia,2012,Female,10.4
+ Montenegro,2012,Female,10.6
+ Morocco,2012,Female,3.5
+ Mozambique,2012,Female,2.4
+ Myanmar,2012,Female,4.7
+ Namibia,2012,Female,6.6
+ Nepal,2012,Female,2.6
+ Netherlands,2012,Female,11.8
+ New Zealand,2012,Female,12.6
+ Nicaragua,2012,Female,6.5
+ Niger,2012,Female,1.1
+ Nigeria,2012,Female,4.7
+ Norway,2012,Female,12.7
+ Oman,2012,Female,8.7
+ Pakistan,2012,Female,3.6
+ Palestine State of,2012,Female,8.6
+ Panama,2012,Female,9.9
+ Papua New Guinea,2012,Female,3.4
+ Paraguay,2012,Female,7.8
+ Peru,2012,Female,8.1
+ Philippines,2012,Female,9.4
+ Poland,2012,Female,11.7
+ Portugal,2012,Female,8.5
+ Qatar,2012,Female,10.6
+ Romania,2012,Female,10.5
+ Russian Federation,2012,Female,11.6
+ Rwanda,2012,Female,3.2
+ Saint Lucia,2012,Female,9.4
+ Sao Tome and Principe,2012,Female,4.7
+ Saudi Arabia,2012,Female,8.7
+ Senegal,2012,Female,1.9
+ Serbia,2012,Female,10
+ Sierra Leone,2012,Female,2.3
+ Singapore,2012,Female,10.9
+ Slovakia,2012,Female,12.2
+ Slovenia,2012,Female,11.5
+ South Africa,2012,Female,9.7
+ South Sudan,2012,Female,4
+ Spain,2012,Female,9.3
+ Sri Lanka,2012,Female,10.2
+ Sudan,2012,Female,2.8
+ Suriname,2012,Female,8.2
+ Sweden,2012,Female,12.6
+ Switzerland,2012,Female,13.9
+ Syrian Arab Republic,2012,Female,5.7
+ Tajikistan,2012,Female,10.8
+ Tanzania (United Republic of),2012,Female,4.9
+ Thailand,2012,Female,7.1
+ The former Yugoslav Republic of Macedonia,2012,Female,8.9
+ Timor-Leste,2012,Female,3.5
+ Togo,2012,Female,2.9
+ Tonga,2012,Female,11
+ Trinidad and Tobago,2012,Female,10.8
+ Tunisia,2012,Female,5.8
+ Turkey,2012,Female,6.7
+ Uganda,2012,Female,4.1
+ Ukraine,2012,Female,11.2
+ United Arab Emirates,2012,Female,10.4
+ United Kingdom,2012,Female,12.9
+ United States,2012,Female,13.4
+ Uruguay,2012,Female,8.8
+ Venezuela (Bolivarian Republic of),2012,Female,9.9
+ Viet Nam,2012,Female,7.3
+ Yemen,2012,Female,1.7
+ Zambia,2012,Female,6.1
+ Zimbabwe,2012,Female,7.3
+ Afghanistan,2013,Female,1.4
+ Albania,2013,Female,9.4
+ Algeria,2013,Female,6
+ Andorra,2013,Female,9.9
+ Argentina,2013,Female,10
+ Armenia,2013,Female,11.5
+ Australia,2013,Female,12.7
+ Austria,2013,Female,11.5
+ Azerbaijan,2013,Female,11.2
+ Bahamas,2013,Female,11.5
+ Bahrain,2013,Female,8.8
+ Bangladesh,2013,Female,4.7
+ Barbados,2013,Female,10.6
+ Belarus,2013,Female,12
+ Belgium,2013,Female,11.1
+ Belize,2013,Female,10.5
+ Benin,2013,Female,2.5
+ Bhutan,2013,Female,1.9
+ Bolivia (Plurinational State of),2013,Female,7.7
+ Bosnia and Herzegovina,2013,Female,7.3
+ Botswana,2013,Female,9
+ Brazil,2013,Female,7.5
+ Brunei Darussalam,2013,Female,8.8
+ Bulgaria,2013,Female,10.9
+ Burkina Faso,2013,Female,1
+ Burundi,2013,Female,2.6
+ Cambodia,2013,Female,3.5
+ Cameroon,2013,Female,4.3
+ Canada,2013,Female,13
+ Central African Republic,2013,Female,2.7
+ Chad,2013,Female,1.1
+ Chile,2013,Female,9.8
+ China,2013,Female,7.2
+ Colombia,2013,Female,8
+ Comoros,2013,Female,3.6
+ Congo,2013,Female,5.3
+ Congo (Democratic Republic of the),2013,Female,3.9
+ Costa Rica,2013,Female,8.6
+ Croatia,2013,Female,10.8
+ Cuba,2013,Female,11.4
+ Cyprus,2013,Female,11.8
+ Czechia,2013,Female,12.4
+ Côte d'Ivoire,2013,Female,3.6
+ Denmark,2013,Female,13.4
+ Dominican Republic,2013,Female,7.8
+ Ecuador,2013,Female,8.4
+ Egypt,2013,Female,6
+ El Salvador,2013,Female,6.2
+ Equatorial Guinea,2013,Female,4
+ Estonia,2013,Female,12.9
+ Eswatini (Kingdom of),2013,Female,5.9
+ Ethiopia,2013,Female,1.5
+ Fiji,2013,Female,10.6
+ Finland,2013,Female,12.5
+ France,2013,Female,11
+ Gabon,2013,Female,7.1
+ Gambia,2013,Female,2.4
+ Georgia,2013,Female,12.5
+ Germany,2013,Female,13.4
+ Ghana,2013,Female,5.8
+ Greece,2013,Female,10.2
+ Guatemala,2013,Female,4.4
+ Guinea,2013,Female,1.4
+ Guyana,2013,Female,8.6
+ Haiti,2013,Female,3.7
+ Honduras,2013,Female,5.9
+ Hong Kong China (SAR),2013,Female,11.5
+ Hungary,2013,Female,11.9
+ Iceland,2013,Female,12.2
+ India,2013,Female,4.5
+ Indonesia,2013,Female,7.2
+ Iran (Islamic Republic of),2013,Female,9.6
+ Iraq,2013,Female,5.3
+ Ireland,2013,Female,12
+ Israel,2013,Female,12.8
+ Italy,2013,Female,9.8
+ Jamaica,2013,Female,9.6
+ Japan,2013,Female,12.3
+ Jordan,2013,Female,9.5
+ Kazakhstan,2013,Female,11.6
+ Kenya,2013,Female,5.7
+ Korea (Republic of),2013,Female,11.2
+ Kuwait,2013,Female,7.3
+ Kyrgyzstan,2013,Female,10.8
+ Lao People's Democratic Republic,2013,Female,4.2
+ Latvia,2013,Female,11.7
+ Lebanon,2013,Female,8.3
+ Lesotho,2013,Female,6.9
+ Liberia,2013,Female,2.9
+ Libya,2013,Female,7.7
+ Lithuania,2013,Female,12.6
+ Luxembourg,2013,Female,11.5
+ Madagascar,2013,Female,6.7
+ Malawi,2013,Female,3.7
+ Malaysia,2013,Female,9.7
+ Maldives,2013,Female,5.7
+ Mali,2013,Female,1.6
+ Malta,2013,Female,10.7
+ Mauritania,2013,Female,3.1
+ Mauritius,2013,Female,8.5
+ Mexico,2013,Female,8.1
+ Moldova (Republic of),2013,Female,11.4
+ Mongolia,2013,Female,10.5
+ Montenegro,2013,Female,10.7
+ Morocco,2013,Female,3.7
+ Mozambique,2013,Female,2.4
+ Myanmar,2013,Female,4.9
+ Namibia,2013,Female,6.8
+ Nepal,2013,Female,2.9
+ Netherlands,2013,Female,11.7
+ New Zealand,2013,Female,12.6
+ Nicaragua,2013,Female,6.6
+ Niger,2013,Female,1.2
+ Nigeria,2013,Female,4.9
+ Norway,2013,Female,12.7
+ Oman,2013,Female,9.3
+ Pakistan,2013,Female,3.7
+ Palestine State of,2013,Female,8.5
+ Panama,2013,Female,10.1
+ Papua New Guinea,2013,Female,3.6
+ Paraguay,2013,Female,8.3
+ Peru,2013,Female,8.3
+ Philippines,2013,Female,9.3
+ Poland,2013,Female,12
+ Portugal,2013,Female,8.6
+ Qatar,2013,Female,10.8
+ Romania,2013,Female,10.6
+ Russian Federation,2013,Female,11.7
+ Rwanda,2013,Female,3.4
+ Saint Lucia,2013,Female,8.7
+ Sao Tome and Principe,2013,Female,4.7
+ Saudi Arabia,2013,Female,8.8
+ Senegal,2013,Female,2.1
+ Serbia,2013,Female,9.9
+ Sierra Leone,2013,Female,2.4
+ Singapore,2013,Female,10.9
+ Slovakia,2013,Female,11.9
+ Slovenia,2013,Female,11.6
+ South Africa,2013,Female,9.9
+ South Sudan,2013,Female,4
+ Spain,2013,Female,9.5
+ Sri Lanka,2013,Female,10.3
+ Sudan,2013,Female,2.9
+ Suriname,2013,Female,8.2
+ Sweden,2013,Female,12.3
+ Switzerland,2013,Female,13.9
+ Syrian Arab Republic,2013,Female,5.7
+ Tajikistan,2013,Female,10.8
+ Tanzania (United Republic of),2013,Female,5
+ Thailand,2013,Female,7.3
+ The former Yugoslav Republic of Macedonia,2013,Female,8.9
+ Timor-Leste,2013,Female,3.3
+ Togo,2013,Female,3
+ Tonga,2013,Female,11
+ Trinidad and Tobago,2013,Female,10.8
+ Tunisia,2013,Female,5.9
+ Turkey,2013,Female,6.8
+ Uganda,2013,Female,4.3
+ Ukraine,2013,Female,11.3
+ United Arab Emirates,2013,Female,10.8
+ United Kingdom,2013,Female,12.1
+ United States,2013,Female,13.2
+ Uruguay,2013,Female,8.7
+ Uzbekistan,2013,Female,11.1
+ Venezuela (Bolivarian Republic of),2013,Female,10.1
+ Viet Nam,2013,Female,7.5
+ Yemen,2013,Female,1.9
+ Zambia,2013,Female,6.2
+ Zimbabwe,2013,Female,7.3
+ Afghanistan,2014,Female,1.5
+ Albania,2014,Female,9.5
+ Algeria,2014,Female,6.1
+ Andorra,2014,Female,10.2
+ Argentina,2014,Female,10
+ Armenia,2014,Female,11.5
+ Australia,2014,Female,12.8
+ Austria,2014,Female,11.8
+ Azerbaijan,2014,Female,10.5
+ Bahamas,2014,Female,11.5
+ Bahrain,2014,Female,8.9
+ Bangladesh,2014,Female,4.4
+ Barbados,2014,Female,10.6
+ Belarus,2014,Female,12
+ Belgium,2014,Female,11.2
+ Belize,2014,Female,10.5
+ Benin,2014,Female,2.7
+ Bhutan,2014,Female,2.1
+ Bolivia (Plurinational State of),2014,Female,7.8
+ Bosnia and Herzegovina,2014,Female,7.8
+ Botswana,2014,Female,9.1
+ Brazil,2014,Female,7.7
+ Brunei Darussalam,2014,Female,8.9
+ Bulgaria,2014,Female,11
+ Burkina Faso,2014,Female,1
+ Burundi,2014,Female,2.6
+ Cambodia,2014,Female,3.7
+ Cameroon,2014,Female,4.5
+ Canada,2014,Female,13.2
+ Central African Republic,2014,Female,2.8
+ Chad,2014,Female,1.2
+ Chile,2014,Female,9.9
+ China,2014,Female,7.3
+ Colombia,2014,Female,8.1
+ Comoros,2014,Female,3.6
+ Congo,2014,Female,5.4
+ Congo (Democratic Republic of the),2014,Female,4.3
+ Costa Rica,2014,Female,8.7
+ Croatia,2014,Female,11
+ Cuba,2014,Female,11.5
+ Cyprus,2014,Female,11.8
+ Czechia,2014,Female,12.6
+ Côte d'Ivoire,2014,Female,3.7
+ Denmark,2014,Female,12.7
+ Dominican Republic,2014,Female,7.9
+ Ecuador,2014,Female,8.3
+ Egypt,2014,Female,6.2
+ El Salvador,2014,Female,6.4
+ Equatorial Guinea,2014,Female,4
+ Estonia,2014,Female,13
+ Eswatini (Kingdom of),2014,Female,6.1
+ Ethiopia,2014,Female,1.5
+ Fiji,2014,Female,10.9
+ Finland,2014,Female,12.6
+ France,2014,Female,11.1
+ Gabon,2014,Female,7.3
+ Gambia,2014,Female,2.6
+ Georgia,2014,Female,12.6
+ Germany,2014,Female,13.5
+ Ghana,2014,Female,5.8
+ Greece,2014,Female,10.3
+ Guatemala,2014,Female,6.3
+ Guinea,2014,Female,1.5
+ Guyana,2014,Female,8.5
+ Haiti,2014,Female,3.9
+ Honduras,2014,Female,6.2
+ Hong Kong China (SAR),2014,Female,11.5
+ Hungary,2014,Female,11.6
+ Iceland,2014,Female,12.2
+ India,2014,Female,4.8
+ Indonesia,2014,Female,7.4
+ Iran (Islamic Republic of),2014,Female,9.7
+ Iraq,2014,Female,5.4
+ Ireland,2014,Female,12.5
+ Israel,2014,Female,12.9
+ Italy,2014,Female,9.9
+ Jamaica,2014,Female,9.6
+ Japan,2014,Female,12.6
+ Jordan,2014,Female,9.7
+ Kazakhstan,2014,Female,11.7
+ Kenya,2014,Female,5.7
+ Korea (Republic of),2014,Female,11.3
+ Kuwait,2014,Female,7.5
+ Kyrgyzstan,2014,Female,10.9
+ Lao People's Democratic Republic,2014,Female,4.3
+ Latvia,2014,Female,12
+ Lebanon,2014,Female,8.3
+ Lesotho,2014,Female,7
+ Liberia,2014,Female,3
+ Libya,2014,Female,7.7
+ Lithuania,2014,Female,12.8
+ Luxembourg,2014,Female,11.6
+ Madagascar,2014,Female,6.7
+ Malawi,2014,Female,3.8
+ Malaysia,2014,Female,9.8
+ Maldives,2014,Female,6.2
+ Mali,2014,Female,1.7
+ Malta,2014,Female,10.8
+ Mauritania,2014,Female,3.3
+ Mauritius,2014,Female,8.8
+ Mexico,2014,Female,8.2
+ Moldova (Republic of),2014,Female,11.5
+ Mongolia,2014,Female,10.6
+ Montenegro,2014,Female,10.7
+ Morocco,2014,Female,3.8
+ Mozambique,2014,Female,2.5
+ Myanmar,2014,Female,4.9
+ Namibia,2014,Female,6.9
+ Nepal,2014,Female,3.1
+ Netherlands,2014,Female,11.8
+ New Zealand,2014,Female,12.6
+ Nicaragua,2014,Female,6.8
+ Niger,2014,Female,1.3
+ Nigeria,2014,Female,4.9
+ Norway,2014,Female,12.5
+ Oman,2014,Female,9.9
+ Pakistan,2014,Female,3.7
+ Palestine State of,2014,Female,8.6
+ Panama,2014,Female,10.3
+ Papua New Guinea,2014,Female,3.7
+ Paraguay,2014,Female,8.2
+ Peru,2014,Female,8.9
+ Philippines,2014,Female,9.5
+ Poland,2014,Female,12.1
+ Portugal,2014,Female,9
+ Qatar,2014,Female,10.8
+ Romania,2014,Female,10.5
+ Russian Federation,2014,Female,11.8
+ Rwanda,2014,Female,3.5
+ Saint Lucia,2014,Female,9
+ Sao Tome and Principe,2014,Female,4.7
+ Saudi Arabia,2014,Female,8.8
+ Senegal,2014,Female,2.2
+ Serbia,2014,Female,10.2
+ Sierra Leone,2014,Female,2.5
+ Singapore,2014,Female,11
+ Slovakia,2014,Female,12
+ Slovenia,2014,Female,11.8
+ South Africa,2014,Female,10.1
+ South Sudan,2014,Female,4
+ Spain,2014,Female,9.5
+ Sri Lanka,2014,Female,10.3
+ Sudan,2014,Female,3
+ Suriname,2014,Female,8.2
+ Sweden,2014,Female,12.4
+ Switzerland,2014,Female,13.9
+ Syrian Arab Republic,2014,Female,5.1
+ Tajikistan,2014,Female,10.7
+ Tanzania (United Republic of),2014,Female,5.2
+ Thailand,2014,Female,7.3
+ The former Yugoslav Republic of Macedonia,2014,Female,8.9
+ Timor-Leste,2014,Female,3.4
+ Togo,2014,Female,3.2
+ Tonga,2014,Female,11
+ Trinidad and Tobago,2014,Female,10.9
+ Tunisia,2014,Female,6.1
+ Turkey,2014,Female,6.9
+ Uganda,2014,Female,4.4
+ Ukraine,2014,Female,11.3
+ United Arab Emirates,2014,Female,11.2
+ United Kingdom,2014,Female,12.6
+ United States,2014,Female,13.3
+ Uruguay,2014,Female,8.9
+ Uzbekistan,2014,Female,11.2
+ Venezuela (Bolivarian Republic of),2014,Female,10.3
+ Viet Nam,2014,Female,7.7
+ Yemen,2014,Female,1.9
+ Zambia,2014,Female,6.4
+ Zimbabwe,2014,Female,7.5
+ Afghanistan,2015,Female,1.6
+ Albania,2015,Female,9.6
+ Algeria,2015,Female,7.5
+ Andorra,2015,Female,10.1
+ Argentina,2015,Female,10.1
+ Armenia,2015,Female,11.6
+ Australia,2015,Female,12.9
+ Austria,2015,Female,11.8
+ Azerbaijan,2015,Female,10.4
+ Bahamas,2015,Female,11.5
+ Bahrain,2015,Female,9
+ Bangladesh,2015,Female,5.1
+ Barbados,2015,Female,10.6
+ Belarus,2015,Female,12.1
+ Belgium,2015,Female,11.3
+ Belize,2015,Female,10.5
+ Benin,2015,Female,2.8
+ Bhutan,2015,Female,2.1
+ Bolivia (Plurinational State of),2015,Female,8
+ Bosnia and Herzegovina,2015,Female,7.8
+ Botswana,2015,Female,9.2
+ Brazil,2015,Female,7.8
+ Brunei Darussalam,2015,Female,9
+ Bulgaria,2015,Female,11.8
+ Burkina Faso,2015,Female,1
+ Burundi,2015,Female,2.6
+ Cabo Verde,2015,Female,5.9
+ Cambodia,2015,Female,3.7
+ Cameroon,2015,Female,4.6
+ Canada,2015,Female,13.3
+ Central African Republic,2015,Female,2.9
+ Chad,2015,Female,1.2
+ Chile,2015,Female,10.2
+ China,2015,Female,7.5
+ Colombia,2015,Female,8.2
+ Comoros,2015,Female,3.6
+ Congo,2015,Female,5.5
+ Congo (Democratic Republic of the),2015,Female,4.6
+ Costa Rica,2015,Female,8.8
+ Croatia,2015,Female,11.2
+ Cuba,2015,Female,11.5
+ Cyprus,2015,Female,11.8
+ Czechia,2015,Female,12.5
+ Côte d'Ivoire,2015,Female,3.9
+ Denmark,2015,Female,12.7
+ Dominican Republic,2015,Female,7.9
+ Ecuador,2015,Female,8.6
+ Egypt,2015,Female,6.4
+ El Salvador,2015,Female,6.5
+ Equatorial Guinea,2015,Female,4
+ Estonia,2015,Female,13
+ Eswatini (Kingdom of),2015,Female,6.1
+ Ethiopia,2015,Female,1.6
+ Fiji,2015,Female,10.9
+ Finland,2015,Female,12.6
+ France,2015,Female,11.3
+ Gabon,2015,Female,7.3
+ Gambia,2015,Female,2.6
+ Georgia,2015,Female,12.3
+ Germany,2015,Female,13.6
+ Ghana,2015,Female,5.8
+ Greece,2015,Female,10.3
+ Guatemala,2015,Female,6.3
+ Guinea,2015,Female,1.5
+ Guyana,2015,Female,8.4
+ Haiti,2015,Female,3.9
+ Honduras,2015,Female,6.4
+ Hong Kong China (SAR),2015,Female,11.6
+ Hungary,2015,Female,11.6
+ Iceland,2015,Female,12.2
+ India,2015,Female,4.8
+ Indonesia,2015,Female,7.4
+ Iran (Islamic Republic of),2015,Female,9.7
+ Iraq,2015,Female,5.4
+ Ireland,2015,Female,12.5
+ Israel,2015,Female,13
+ Italy,2015,Female,10
+ Jamaica,2015,Female,9.7
+ Japan,2015,Female,12.6
+ Jordan,2015,Female,10
+ Kazakhstan,2015,Female,11.7
+ Kenya,2015,Female,5.7
+ Korea (Republic of),2015,Female,11.4
+ Kuwait,2015,Female,7.7
+ Kyrgyzstan,2015,Female,10.9
+ Lao People's Democratic Republic,2015,Female,4.5
+ Latvia,2015,Female,13.2
+ Lebanon,2015,Female,8.3
+ Lesotho,2015,Female,7
+ Liberia,2015,Female,3
+ Libya,2015,Female,7.7
+ Lithuania,2015,Female,13
+ Luxembourg,2015,Female,11.6
+ Madagascar,2015,Female,6.7
+ Malawi,2015,Female,3.9
+ Malaysia,2015,Female,9.9
+ Maldives,2015,Female,6.2
+ Mali,2015,Female,1.7
+ Malta,2015,Female,10.9
+ Mauritania,2015,Female,3.3
+ Mauritius,2015,Female,8.8
+ Mexico,2015,Female,8.4
+ Moldova (Republic of),2015,Female,11.5
+ Mongolia,2015,Female,10.6
+ Montenegro,2015,Female,10.7
+ Morocco,2015,Female,3.9
+ Mozambique,2015,Female,2.5
+ Myanmar,2015,Female,4.9
+ Namibia,2015,Female,6.9
+ Nepal,2015,Female,3.4
+ Netherlands,2015,Female,11.8
+ New Zealand,2015,Female,12.6
+ Nicaragua,2015,Female,6.8
+ Niger,2015,Female,1.3
+ Nigeria,2015,Female,4.9
+ Norway,2015,Female,12.6
+ Oman,2015,Female,10.4
+ Pakistan,2015,Female,3.7
+ Palestine State of,2015,Female,8.7
+ Panama,2015,Female,10.3
+ Papua New Guinea,2015,Female,3.7
+ Paraguay,2015,Female,8.5
+ Peru,2015,Female,8.6
+ Philippines,2015,Female,9.5
+ Poland,2015,Female,12.2
+ Portugal,2015,Female,9.1
+ Qatar,2015,Female,10.8
+ Romania,2015,Female,10.5
+ Russian Federation,2015,Female,12
+ Rwanda,2015,Female,3.6
+ Saint Lucia,2015,Female,9.4
+ Sao Tome and Principe,2015,Female,5
+ Saudi Arabia,2015,Female,8.8
+ Senegal,2015,Female,2.3
+ Serbia,2015,Female,10.6
+ Sierra Leone,2015,Female,2.6
+ Singapore,2015,Female,11
+ Slovakia,2015,Female,12
+ Slovenia,2015,Female,11.9
+ South Africa,2015,Female,9.9
+ South Sudan,2015,Female,4
+ Spain,2015,Female,9.6
+ Sri Lanka,2015,Female,10.3
+ Sudan,2015,Female,3
+ Suriname,2015,Female,8.2
+ Sweden,2015,Female,12.5
+ Switzerland,2015,Female,13.9
+ Syrian Arab Republic,2015,Female,4.6
+ Tajikistan,2015,Female,10.7
+ Tanzania (United Republic of),2015,Female,5.4
+ Thailand,2015,Female,7.4
+ The former Yugoslav Republic of Macedonia,2015,Female,8.9
+ Timor-Leste,2015,Female,3.5
+ Togo,2015,Female,3.2
+ Tonga,2015,Female,11
+ Trinidad and Tobago,2015,Female,10.9
+ Tunisia,2015,Female,6.2
+ Turkey,2015,Female,7.1
+ Uganda,2015,Female,4.5
+ Ukraine,2015,Female,11.3
+ United Arab Emirates,2015,Female,11.6
+ United Kingdom,2015,Female,12.7
+ United States,2015,Female,13.3
+ Uruguay,2015,Female,8.9
+ Uzbekistan,2015,Female,11.2
+ Venezuela (Bolivarian Republic of),2015,Female,10.5
+ Viet Nam,2015,Female,7.8
+ Yemen,2015,Female,1.9
+ Zambia,2015,Female,6.4
+ Zimbabwe,2015,Female,7.5
+ Afghanistan,2016,Female,1.8
+ Albania,2016,Female,9.7
+ Algeria,2016,Female,7.6
+ Andorra,2016,Female,10.1
+ Argentina,2016,Female,10.1
+ Armenia,2016,Female,11.7
+ Australia,2016,Female,12.9
+ Austria,2016,Female,11.8
+ Azerbaijan,2016,Female,10.4
+ Bahamas,2016,Female,11.5
+ Bahrain,2016,Female,9.2
+ Bangladesh,2016,Female,5.2
+ Barbados,2016,Female,10.6
+ Belarus,2016,Female,12.2
+ Belgium,2016,Female,11.5
+ Belize,2016,Female,10.4
+ Benin,2016,Female,3
+ Bhutan,2016,Female,2.1
+ Bolivia (Plurinational State of),2016,Female,8.2
+ Bosnia and Herzegovina,2016,Female,8.6
+ Botswana,2016,Female,9.3
+ Brazil,2016,Female,7.9
+ Brunei Darussalam,2016,Female,9
+ Bulgaria,2016,Female,11.9
+ Burkina Faso,2016,Female,1
+ Burundi,2016,Female,2.7
+ Cabo Verde,2016,Female,5.9
+ Cambodia,2016,Female,3.8
+ Cameroon,2016,Female,4.7
+ Canada,2016,Female,13.3
+ Central African Republic,2016,Female,3
+ Chad,2016,Female,1.2
+ Chile,2016,Female,10.2
+ China,2016,Female,7.6
+ Colombia,2016,Female,8.5
+ Comoros,2016,Female,3.7
+ Congo,2016,Female,5.5
+ Congo (Democratic Republic of the),2016,Female,4.9
+ Costa Rica,2016,Female,8.8
+ Croatia,2016,Female,11.2
+ Cuba,2016,Female,11.6
+ Cyprus,2016,Female,12
+ Czechia,2016,Female,12.5
+ Côte d'Ivoire,2016,Female,4
+ Denmark,2016,Female,12.7
+ Dominican Republic,2016,Female,8.1
+ Ecuador,2016,Female,8.6
+ Egypt,2016,Female,6.5
+ El Salvador,2016,Female,6.7
+ Equatorial Guinea,2016,Female,4
+ Estonia,2016,Female,13
+ Eswatini (Kingdom of),2016,Female,6.1
+ Ethiopia,2016,Female,1.6
+ Fiji,2016,Female,10.9
+ Finland,2016,Female,12.6
+ France,2016,Female,11.3
+ Gabon,2016,Female,7.4
+ Gambia,2016,Female,2.6
+ Georgia,2016,Female,12.8
+ Germany,2016,Female,13.6
+ Ghana,2016,Female,6.3
+ Greece,2016,Female,10.5
+ Guatemala,2016,Female,6.4
+ Guinea,2016,Female,1.5
+ Guyana,2016,Female,8.4
+ Haiti,2016,Female,4.3
+ Honduras,2016,Female,6.6
+ Hong Kong China (SAR),2016,Female,11.6
+ Hungary,2016,Female,11.7
+ Iceland,2016,Female,12.3
+ India,2016,Female,4.8
+ Indonesia,2016,Female,7.5
+ Iran (Islamic Republic of),2016,Female,9.7
+ Iraq,2016,Female,5.4
+ Ireland,2016,Female,12.7
+ Israel,2016,Female,13
+ Italy,2016,Female,10
+ Jamaica,2016,Female,10
+ Japan,2016,Female,12.9
+ Jordan,2016,Female,10.1
+ Kazakhstan,2016,Female,11.8
+ Kenya,2016,Female,5.6
+ Korea (Republic of),2016,Female,11.4
+ Kuwait,2016,Female,7.9
+ Kyrgyzstan,2016,Female,10.9
+ Lao People's Democratic Republic,2016,Female,4.6
+ Latvia,2016,Female,13.2
+ Lebanon,2016,Female,8.4
+ Lesotho,2016,Female,7
+ Liberia,2016,Female,3
+ Libya,2016,Female,7.7
+ Lithuania,2016,Female,13
+ Luxembourg,2016,Female,11.7
+ Madagascar,2016,Female,6.7
+ Malawi,2016,Female,4
+ Malaysia,2016,Female,10
+ Maldives,2016,Female,6.2
+ Mali,2016,Female,1.7
+ Malta,2016,Female,11
+ Mauritania,2016,Female,3.4
+ Mauritius,2016,Female,9.1
+ Mexico,2016,Female,8.4
+ Moldova (Republic of),2016,Female,11.5
+ Mongolia,2016,Female,10.6
+ Montenegro,2016,Female,10.7
+ Morocco,2016,Female,4.2
+ Mozambique,2016,Female,2.5
+ Myanmar,2016,Female,4.9
+ Namibia,2016,Female,7.1
+ Nepal,2016,Female,3.6
+ Netherlands,2016,Female,11.9
+ New Zealand,2016,Female,12.7
+ Nicaragua,2016,Female,6.9
+ Niger,2016,Female,1.4
+ Nigeria,2016,Female,5
+ Norway,2016,Female,12.6
+ Oman,2016,Female,10.4
+ Pakistan,2016,Female,3.8
+ Palestine State of,2016,Female,8.9
+ Panama,2016,Female,10.3
+ Papua New Guinea,2016,Female,3.8
+ Paraguay,2016,Female,8.4
+ Peru,2016,Female,8.7
+ Philippines,2016,Female,9.5
+ Poland,2016,Female,12.3
+ Portugal,2016,Female,9.2
+ Qatar,2016,Female,10.8
+ Romania,2016,Female,10.6
+ Russian Federation,2016,Female,12
+ Rwanda,2016,Female,3.7
+ Saint Lucia,2016,Female,9.7
+ Sao Tome and Principe,2016,Female,5.3
+ Saudi Arabia,2016,Female,8.8
+ Senegal,2016,Female,2.4
+ Serbia,2016,Female,10.7
+ Sierra Leone,2016,Female,2.6
+ Singapore,2016,Female,11
+ Slovakia,2016,Female,12.3
+ Slovenia,2016,Female,12.2
+ South Africa,2016,Female,9.9
+ South Sudan,2016,Female,4
+ Spain,2016,Female,9.7
+ Sri Lanka,2016,Female,10.3
+ Sudan,2016,Female,3.1
+ Suriname,2016,Female,8.3
+ Sweden,2016,Female,12.5
+ Switzerland,2016,Female,13.9
+ Syrian Arab Republic,2016,Female,4.6
+ Tajikistan,2016,Female,10.7
+ Tanzania (United Republic of),2016,Female,5.4
+ Thailand,2016,Female,7.4
+ The former Yugoslav Republic of Macedonia,2016,Female,8.9
+ Timor-Leste,2016,Female,3.5
+ Togo,2016,Female,3.3
+ Tonga,2016,Female,11.2
+ Trinidad and Tobago,2016,Female,11
+ Tunisia,2016,Female,6.3
+ Turkey,2016,Female,7.1
+ Uganda,2016,Female,4.5
+ Ukraine,2016,Female,11.3
+ United Arab Emirates,2016,Female,11.9
+ United Kingdom,2016,Female,12.8
+ United States,2016,Female,13.4
+ Uruguay,2016,Female,9
+ Uzbekistan,2016,Female,11.2
+ Venezuela (Bolivarian Republic of),2016,Female,10.5
+ Viet Nam,2016,Female,7.8
+ Yemen,2016,Female,1.9
+ Zambia,2016,Female,6.5
+ Zimbabwe,2016,Female,7.5
+ Afghanistan,2017,Female,1.9
+ Albania,2017,Female,9.8
+ Algeria,2017,Female,7.6
+ Andorra,2017,Female,10.1
+ Argentina,2017,Female,10.1
+ Armenia,2017,Female,11.7
+ Australia,2017,Female,12.9
+ Austria,2017,Female,11.8
+ Azerbaijan,2017,Female,10.4
+ Bahamas,2017,Female,11.5
+ Bahrain,2017,Female,9.3
+ Bangladesh,2017,Female,5.2
+ Barbados,2017,Female,10.6
+ Belarus,2017,Female,12.2
+ Belgium,2017,Female,11.6
+ Belize,2017,Female,10.5
+ Benin,2017,Female,3
+ Bhutan,2017,Female,2.1
+ Bolivia (Plurinational State of),2017,Female,8.2
+ Bosnia and Herzegovina,2017,Female,8.6
+ Botswana,2017,Female,9.2
+ Brazil,2017,Female,8
+ Brunei Darussalam,2017,Female,9
+ Bulgaria,2017,Female,11.9
+ Burkina Faso,2017,Female,1
+ Burundi,2017,Female,2.7
+ Cabo Verde,2017,Female,5.9
+ Cambodia,2017,Female,3.8
+ Cameroon,2017,Female,4.7
+ Canada,2017,Female,13.3
+ Central African Republic,2017,Female,3
+ Chad,2017,Female,1.2
+ Chile,2017,Female,10.2
+ China,2017,Female,7.6
+ Colombia,2017,Female,8.5
+ Comoros,2017,Female,3.7
+ Congo,2017,Female,5.5
+ Congo (Democratic Republic of the),2017,Female,5.3
+ Costa Rica,2017,Female,8.8
+ Croatia,2017,Female,11.2
+ Cuba,2017,Female,11.6
+ Cyprus,2017,Female,12
+ Czechia,2017,Female,12.6
+ Côte d'Ivoire,2017,Female,4
+ Denmark,2017,Female,12.7
+ Dominican Republic,2017,Female,8.1
+ Ecuador,2017,Female,8.6
+ Egypt,2017,Female,6.5
+ El Salvador,2017,Female,6.7
+ Equatorial Guinea,2017,Female,4
+ Estonia,2017,Female,13
+ Eswatini (Kingdom of),2017,Female,6.1
+ Ethiopia,2017,Female,1.6
+ Fiji,2017,Female,10.9
+ Finland,2017,Female,12.6
+ France,2017,Female,11.3
+ Gabon,2017,Female,7.4
+ Gambia,2017,Female,2.9
+ Georgia,2017,Female,12.8
+ Germany,2017,Female,13.6
+ Ghana,2017,Female,6.3
+ Greece,2017,Female,10.5
+ Guatemala,2017,Female,6.4
+ Guinea,2017,Female,1.5
+ Guyana,2017,Female,8.4
+ Haiti,2017,Female,4.3
+ Honduras,2017,Female,6.6
+ Hong Kong China (SAR),2017,Female,11.6
+ Hungary,2017,Female,11.7
+ Iceland,2017,Female,12.3
+ India,2017,Female,4.8
+ Indonesia,2017,Female,7.5
+ Iran (Islamic Republic of),2017,Female,9.7
+ Iraq,2017,Female,5.4
+ Ireland,2017,Female,12.7
+ Israel,2017,Female,13
+ Italy,2017,Female,10
+ Jamaica,2017,Female,10
+ Japan,2017,Female,12.9
+ Jordan,2017,Female,10.1
+ Kazakhstan,2017,Female,11.8
+ Kenya,2017,Female,5.7
+ Korea (Republic of),2017,Female,11.4
+ Kuwait,2017,Female,8
+ Kyrgyzstan,2017,Female,10.9
+ Lao People's Democratic Republic,2017,Female,4.6
+ Latvia,2017,Female,13.2
+ Lebanon,2017,Female,8.5
+ Lesotho,2017,Female,7
+ Liberia,2017,Female,3.5
+ Libya,2017,Female,7.7
+ Lithuania,2017,Female,13
+ Luxembourg,2017,Female,11.7
+ Madagascar,2017,Female,6.7
+ Malawi,2017,Female,4
+ Malaysia,2017,Female,10
+ Maldives,2017,Female,6.2
+ Mali,2017,Female,1.7
+ Malta,2017,Female,11
+ Marshall Islands,2017,Female,10.7
+ Mauritania,2017,Female,3.5
+ Mauritius,2017,Female,9.1
+ Mexico,2017,Female,8.4
+ Moldova (Republic of),2017,Female,11.5
+ Mongolia,2017,Female,10.6
+ Montenegro,2017,Female,10.7
+ Morocco,2017,Female,4.5
+ Mozambique,2017,Female,2.5
+ Myanmar,2017,Female,4.9
+ Namibia,2017,Female,7.2
+ Nepal,2017,Female,3.6
+ Netherlands,2017,Female,11.9
+ New Zealand,2017,Female,12.7
+ Nicaragua,2017,Female,6.9
+ Niger,2017,Female,1.5
+ Nigeria,2017,Female,5
+ Norway,2017,Female,12.6
+ Oman,2017,Female,10.4
+ Pakistan,2017,Female,3.8
+ Palestine State of,2017,Female,8.9
+ Panama,2017,Female,10.4
+ Papua New Guinea,2017,Female,3.8
+ Paraguay,2017,Female,8.4
+ Peru,2017,Female,8.7
+ Philippines,2017,Female,9.5
+ Poland,2017,Female,12.3
+ Portugal,2017,Female,9.2
+ Qatar,2017,Female,10.8
+ Romania,2017,Female,10.6
+ Russian Federation,2017,Female,12
+ Rwanda,2017,Female,3.7
+ Saint Lucia,2017,Female,9.4
+ Sao Tome and Principe,2017,Female,5.6
+ Saudi Arabia,2017,Female,8.8
+ Senegal,2017,Female,2.4
+ Serbia,2017,Female,10.7
+ Sierra Leone,2017,Female,2.7
+ Singapore,2017,Female,11
+ Slovakia,2017,Female,12.3
+ Slovenia,2017,Female,12.2
+ South Africa,2017,Female,9.9
+ South Sudan,2017,Female,4
+ Spain,2017,Female,9.7
+ Sri Lanka,2017,Female,10.3
+ Sudan,2017,Female,3.1
+ Suriname,2017,Female,8.3
+ Sweden,2017,Female,12.5
+ Switzerland,2017,Female,13.9
+ Syrian Arab Republic,2017,Female,4.6
+ Tajikistan,2017,Female,10.7
+ Tanzania (United Republic of),2017,Female,5.4
+ Thailand,2017,Female,7.4
+ The former Yugoslav Republic of Macedonia,2017,Female,8.9
+ Timor-Leste,2017,Female,3.6
+ Togo,2017,Female,3.3
+ Tonga,2017,Female,11.2
+ Trinidad and Tobago,2017,Female,11
+ Tunisia,2017,Female,6.3
+ Turkey,2017,Female,7.1
+ Uganda,2017,Female,4.7
+ Ukraine,2017,Female,11.3
+ United Arab Emirates,2017,Female,11.9
+ United Kingdom,2017,Female,12.8
+ United States,2017,Female,13.4
+ Uruguay,2017,Female,9
+ Uzbekistan,2017,Female,11.2
+ Venezuela (Bolivarian Republic of),2017,Female,10.7
+ Viet Nam,2017,Female,7.9
+ Yemen,2017,Female,1.9
+ Zambia,2017,Female,6.5
+ Zimbabwe,2017,Female,7.5

@@ -1,0 +1,219 @@
+World,Income_Level,Country
+World,Low-income economies,Afghanistan
+World,Low-income economies,Benin
+World,Low-income economies,Burkina  Faso
+World,Low-income economies,Burundi
+World,Low-income economies,Central  African Republic
+World,Low-income economies,Chad
+World,Low-income economies,Comoros
+World,Low-income economies,Congo  Dem. Rep
+World,Low-income economies,Eritrea
+World,Low-income economies,Ethiopia
+World,Low-income economies,Gambia  The
+World,Low-income economies,Guinea
+World,Low-income economies,Guinea-Bissau
+World,Low-income economies,Haiti
+World,Low-income economies,Korea Dem. People's Rep.
+World,Low-income economies,Liberia
+World,Low-income economies,Madagascar
+World,Low-income economies,Malawi
+World,Low-income economies,Mali
+World,Low-income economies,Mozambique
+World,Low-income economies,Nepal
+World,Low-income economies,Niger
+World,Low-income economies,Rwanda
+World,Low-income economies,Senegal
+World,Low-income economies,Sierra Leone
+World,Low-income economies,Somalia
+World,Low-income economies,South Sudan
+World,Low-income economies,Syrian Arab Republic
+World,Low-income economies,Tajikistan
+World,Low-income economies,Tanzania
+World,Low-income economies,Togo
+World,Low-income economies,Uganda
+World,Low-income economies,Yemen Rep.
+World,Low-income economies,Zimbabwe
+World,Lower-middle-income economies,Angola
+World,Lower-middle-income economies,Bangladesh
+World,Lower-middle-income economies,Bhutan
+World,Lower-middle-income economies,Bolivia
+World,Lower-middle-income economies,Cabo  Verde
+World,Lower-middle-income economies,Cambodia
+World,Lower-middle-income economies,Cameroon
+World,Lower-middle-income economies,Congo  Rep.
+World,Lower-middle-income economies,Côte  d'Ivoire
+World,Lower-middle-income economies,Djibouti
+World,Lower-middle-income economies,Egypt  Arab Rep.
+World,Lower-middle-income economies,El  Salvador
+World,Lower-middle-income economies,Georgia
+World,Lower-middle-income economies,Ghana
+World,Lower-middle-income economies,Honduras
+World,Lower-middle-income economies,India
+World,Lower-middle-income economies,Indonesia
+World,Lower-middle-income economies,Kenya
+World,Lower-middle-income economies,Kiribati
+World,Lower-middle-income economies,Kosovo
+World,Lower-middle-income economies,Kyrgyz Republic
+World,Lower-middle-income economies,Lao PDR
+World,Lower-middle-income economies,Lesotho
+World,Lower-middle-income economies,Mauritania
+World,Lower-middle-income economies,Micronesia Fed. Sts.
+World,Lower-middle-income economies,Moldova
+World,Lower-middle-income economies,Mongolia
+World,Lower-middle-income economies,Morocco
+World,Lower-middle-income economies,Myanmar
+World,Lower-middle-income economies,Nicaragua
+World,Lower-middle-income economies,Nigeria
+World,Lower-middle-income economies,Pakistan
+World,Lower-middle-income economies,Papua New Guinea
+World,Lower-middle-income economies,Philippines
+World,Lower-middle-income economies,São Tomé and Principe
+World,Lower-middle-income economies,Solomon Islands
+World,Lower-middle-income economies,Sri Lanka
+World,Lower-middle-income economies,Sudan
+World,Lower-middle-income economies,Swaziland
+World,Lower-middle-income economies,Timor-Leste
+World,Lower-middle-income economies,Tunisia
+World,Lower-middle-income economies,Ukraine
+World,Lower-middle-income economies,Uzbekistan
+World,Lower-middle-income economies,Vanuatu
+World,Lower-middle-income economies,Vietnam
+World,Lower-middle-income economies,West Bank and Gaza
+World,Lower-middle-income economies,Zambia
+World,Upper-middle-income economies,Albania
+World,Upper-middle-income economies,Algeria
+World,Upper-middle-income economies,American  Samoa
+World,Upper-middle-income economies,Armenia
+World,Upper-middle-income economies,Azerbaijan
+World,Upper-middle-income economies,Belarus
+World,Upper-middle-income economies,Belize
+World,Upper-middle-income economies,Bosnia  and Herzegovina
+World,Upper-middle-income economies,Botswana
+World,Upper-middle-income economies,Brazil
+World,Upper-middle-income economies,Bulgaria
+World,Upper-middle-income economies,China
+World,Upper-middle-income economies,Colombia
+World,Upper-middle-income economies,Costa  Rica
+World,Upper-middle-income economies,Cuba
+World,Upper-middle-income economies,Dominica
+World,Upper-middle-income economies,Dominican  Republic
+World,Upper-middle-income economies,Equatorial  Guinea
+World,Upper-middle-income economies,Ecuador
+World,Upper-middle-income economies,Fiji
+World,Upper-middle-income economies,Gabon
+World,Upper-middle-income economies,Grenada
+World,Upper-middle-income economies,Guatemala
+World,Upper-middle-income economies,Guyana
+World,Upper-middle-income economies,Iran Islamic Rep.
+World,Upper-middle-income economies,Iraq
+World,Upper-middle-income economies,Jamaica
+World,Upper-middle-income economies,Jordan
+World,Upper-middle-income economies,Kazakhstan
+World,Upper-middle-income economies,Lebanon
+World,Upper-middle-income economies,Libya
+World,Upper-middle-income economies,Macedonia FYR
+World,Upper-middle-income economies,Malaysia
+World,Upper-middle-income economies,Maldives
+World,Upper-middle-income economies,Marshall Islands
+World,Upper-middle-income economies,Mauritius
+World,Upper-middle-income economies,Mexico
+World,Upper-middle-income economies,Montenegro
+World,Upper-middle-income economies,Namibia
+World,Upper-middle-income economies,Nauru
+World,Upper-middle-income economies,Paraguay
+World,Upper-middle-income economies,Peru
+World,Upper-middle-income economies,Romania
+World,Upper-middle-income economies,Russian Federation
+World,Upper-middle-income economies,Samoa
+World,Upper-middle-income economies,Serbia
+World,Upper-middle-income economies,South Africa
+World,Upper-middle-income economies,St. Lucia
+World,Upper-middle-income economies,St. Vincent and the Grenadines
+World,Upper-middle-income economies,Suriname
+World,Upper-middle-income economies,Thailand
+World,Upper-middle-income economies,Tonga
+World,Upper-middle-income economies,Turkey
+World,Upper-middle-income economies,Turkmenistan
+World,Upper-middle-income economies,Tuvalu
+World,Upper-middle-income economies,Venezuela RB
+World,High-income economies,Andorra
+World,High-income economies,Antigua  and Barbuda
+World,High-income economies,Argentina
+World,High-income economies,Aruba
+World,High-income economies,Australia
+World,High-income economies,Austria
+World,High-income economies,Bahamas  The
+World,High-income economies,Bahrain
+World,High-income economies,Barbados
+World,High-income economies,Belgium
+World,High-income economies,Bermuda
+World,High-income economies,British  Virgin Islands
+World,High-income economies,Brunei  Darussalam
+World,High-income economies,Canada
+World,High-income economies,Cayman  Islands
+World,High-income economies,Channel  Islands
+World,High-income economies,Chile
+World,High-income economies,Croatia
+World,High-income economies,Curaçao
+World,High-income economies,Cyprus
+World,High-income economies,Czech  Republic
+World,High-income economies,Denmark
+World,High-income economies,Estonia
+World,High-income economies,Faroe  Islands
+World,High-income economies,Finland
+World,High-income economies,France
+World,High-income economies,French  Polynesia
+World,High-income economies,Germany
+World,High-income economies,Gibraltar
+World,High-income economies,Greece
+World,High-income economies,Greenland
+World,High-income economies,Guam
+World,High-income economies,Hong Kong SAR China
+World,High-income economies,Hungary
+World,High-income economies,Iceland
+World,High-income economies,Ireland
+World,High-income economies,Isle of Man
+World,High-income economies,Israel
+World,High-income economies,Italy
+World,High-income economies,Japan
+World,High-income economies,Korea Rep.
+World,High-income economies,Kuwait
+World,High-income economies,Latvia
+World,High-income economies,Liechtenstein
+World,High-income economies,Lithuania
+World,High-income economies,Luxembourg
+World,High-income economies,Macao SAR China
+World,High-income economies,Malta
+World,High-income economies,Monaco
+World,High-income economies,Netherlands
+World,High-income economies,New Caledonia
+World,High-income economies,New Zealand
+World,High-income economies,Northern Mariana Islands
+World,High-income economies,Norway
+World,High-income economies,Oman
+World,High-income economies,Palau
+World,High-income economies,Panama
+World,High-income economies,Poland
+World,High-income economies,Portugal
+World,High-income economies,Puerto Rico
+World,High-income economies,Qatar
+World,High-income economies,San Marino
+World,High-income economies,Saudi Arabia
+World,High-income economies,Seychelles
+World,High-income economies,Singapore
+World,High-income economies,Sint Maarten (Dutch part)
+World,High-income economies,Slovak Republic
+World,High-income economies,Slovenia
+World,High-income economies,Spain
+World,High-income economies,St. Kitts and Nevis
+World,High-income economies,St. Martin (French part)
+World,High-income economies,Sweden
+World,High-income economies,Switzerland
+World,High-income economies,Taiwan China
+World,High-income economies,Trinidad and Tobago
+World,High-income economies,Turks and Caicos Islands
+World,High-income economies,United Arab Emirates
+World,High-income economies,United Kingdom
+World,High-income economies,United States
+World,High-income economies,Uruguay
+World,High-income economies,Virgin Islands (U.S.)
