@@ -36,7 +36,7 @@ _(Req-3)_ My Third BI Query is easy Analyze whether this gender gap is based on 
 
 Sources of data used in the project.
 
-**_Source 1:___ ILO**
+_**Source 1:ILO**_
 
 ILO Contains the data for the Employment of women and men in different sectors which helps us to compare that employability rate between the women and men and also to know in which sectors the women have to improve this will be visualized further in the business intelligence(BI) query. The link for the data is https://www.ilo.org/wesodata/
 
